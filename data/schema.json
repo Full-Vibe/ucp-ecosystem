@@ -1,0 +1,22 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "UCP Listing",
+  "type": "object",
+  "required": ["slug", "name", "description", "url", "category"],
+  "properties": {
+    "slug": { "type": "string", "pattern": "^[a-z0-9-]+$" },
+    "name": { "type": "string" },
+    "description": { "type": "string" },
+    "url": { "type": "string", "format": "uri" },
+    "category": { "type": "string", "enum": ["merchants", "platforms", "payment-handlers", "developer-tools", "agent-integrations"] },
+    "tags": { "type": "array", "items": { "type": "string" } },
+    "capabilities": { "type": "array", "items": { "type": "string", "enum": ["checkout", "identity-linking", "order-management", "payment-token-exchange"] } },
+    "status": { "type": "string", "enum": ["verified", "unverified", "community-submitted"] },
+    "openSource": { "type": "boolean" },
+    "githubUrl": { "type": "string", "format": "uri" },
+    "docsUrl": { "type": "string", "format": "uri" },
+    "pricing": { "type": "string", "enum": ["free", "freemium", "paid", "enterprise"] },
+    "ucpEndpoint": { "type": ["string", "null"] },
+    "ucpStatus": { "type": "string", "enum": ["live", "beta", "announced", "planned"] }
+  }
+}

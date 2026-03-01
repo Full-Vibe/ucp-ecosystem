@@ -1,0 +1,7 @@
+[
+  { "id": "merchants", "name": "Merchants", "description": "Stores and businesses with UCP-enabled checkout" },
+  { "id": "platforms", "name": "Platforms", "description": "Commerce platforms offering native UCP support" },
+  { "id": "payment-handlers", "name": "Payment Handlers", "description": "Payment service providers with UCP integration" },
+  { "id": "developer-tools", "name": "Developer Tools", "description": "SDKs, libraries, validators, and testing tools for UCP" },
+  { "id": "agent-integrations", "name": "Agent Integrations", "description": "AI agents and platforms that use UCP for commerce" }
+]

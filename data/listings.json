@@ -1,0 +1,233 @@
+[
+  {
+    "slug": "shopify",
+    "name": "Shopify",
+    "description": "Leading e-commerce platform with native UCP checkout support for millions of merchants worldwide.",
+    "url": "https://www.shopify.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "google-shopping",
+    "name": "Google Shopping",
+    "description": "Google\\",
+    "url": "https://shopping.google.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "etsy",
+    "name": "Etsy",
+    "description": "Handmade and vintage marketplace with UCP integration for unique product discovery by AI shopping agents.",
+    "url": "https://www.etsy.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "wayfair",
+    "name": "Wayfair",
+    "description": "Home goods and furniture retailer supporting UCP for agent-assisted shopping of large-format items.",
+    "url": "https://www.wayfair.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "target",
+    "name": "Target",
+    "description": "Major US retailer with UCP-enabled checkout supporting AI-driven product discovery and same-day delivery.",
+    "url": "https://www.target.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "walmart",
+    "name": "Walmart",
+    "description": "World\\",
+    "url": "https://www.walmart.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "stripe",
+    "name": "Stripe",
+    "description": "Payment infrastructure provider with first-class UCP payment token exchange and checkout integration.",
+    "url": "https://stripe.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "adyen",
+    "name": "Adyen",
+    "description": "Global payment platform supporting UCP transactions across 150+ currencies and local payment methods.",
+    "url": "https://www.adyen.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "visa",
+    "name": "Visa",
+    "description": "Global payment network enabling secure UCP payment token exchange across its worldwide card network.",
+    "url": "https://www.visa.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "mastercard",
+    "name": "Mastercard",
+    "description": "Payment network with UCP-compatible tokenized payment capabilities for secure agent-driven transactions.",
+    "url": "https://www.mastercard.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "american-express",
+    "name": "American Express",
+    "description": "Premium payment network supporting UCP token exchange with enhanced purchase protections for agent-driven commerce.",
+    "url": "https://www.americanexpress.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "paypal",
+    "name": "PayPal",
+    "description": "Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.",
+    "url": "https://www.paypal.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "ucp-sdk",
+    "name": "UCP SDK (Official)",
+    "description": "Official TypeScript/JavaScript SDK for building UCP-compatible checkout experiences and agent integrations.",
+    "url": "https://github.com/AminTheDev/ucp-sdk",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-conformance-test-suite",
+    "name": "UCP Conformance Test Suite",
+    "description": "Automated test suite to validate UCP protocol compliance for merchants, platforms, and payment handlers.",
+    "url": "https://github.com/AminTheDev/ucp-conformance-tests",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-samples-repository",
+    "name": "UCP Samples Repository",
+    "description": "Collection of example integrations and starter templates for common UCP implementation patterns.",
+    "url": "https://github.com/AminTheDev/ucp-samples",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-schema-validator",
+    "name": "UCP Schema Validator",
+    "description": "CLI and library for validating UCP message payloads against the official JSON schema specification.",
+    "url": "https://github.com/AminTheDev/ucp-schema-validator",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-checkout-js",
+    "name": "UCP Checkout.js",
+    "description": "Drop-in JavaScript widget for adding UCP-compatible checkout to any website with minimal configuration.",
+    "url": "https://github.com/AminTheDev/ucp-checkout-js",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-cli-tools",
+    "name": "UCP CLI Tools",
+    "description": "Command-line tools for scaffolding, testing, and debugging UCP integrations from the terminal.",
+    "url": "https://github.com/AminTheDev/ucp-cli",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "nike",
+    "name": "Nike",
+    "description": "Global sportswear brand with UCP checkout enabling AI-assisted shopping across footwear, apparel, and equipment.",
+    "url": "https://www.nike.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "allbirds",
+    "name": "Allbirds",
+    "description": "Sustainable footwear brand with UCP-enabled checkout for eco-conscious AI-assisted shopping.",
+    "url": "https://www.allbirds.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "warby-parker",
+    "name": "Warby Parker",
+    "description": "Eyewear brand supporting UCP checkout with virtual try-on and prescription management capabilities.",
+    "url": "https://www.warbyparker.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "glossier",
+    "name": "Glossier",
+    "description": "Beauty and skincare brand with UCP integration for personalized product recommendations via AI agents.",
+    "url": "https://www.glossier.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "everlane",
+    "name": "Everlane",
+    "description": "Transparent pricing fashion brand with UCP checkout showcasing radical cost transparency to AI agents.",
+    "url": "https://www.everlane.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "casper",
+    "name": "Casper",
+    "description": "Sleep products brand with UCP support for agent-assisted mattress and bedding purchases.",
+    "url": "https://casper.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "away",
+    "name": "Away",
+    "description": "Travel and luggage brand with UCP-enabled checkout for AI-assisted travel gear shopping.",
+    "url": "https://www.awaytravel.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "bombas",
+    "name": "Bombas",
+    "description": "Comfort-focused sock and apparel brand with UCP checkout supporting subscription and bulk orders.",
+    "url": "https://bombas.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "outdoor-voices",
+    "name": "Outdoor Voices",
+    "description": "Activewear brand with UCP integration for AI-assisted athletic apparel shopping.",
+    "url": "https://www.outdoorvoices.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "thirdlove",
+    "name": "ThirdLove",
+    "description": "Inclusive lingerie brand with UCP checkout featuring AI-assisted fit finding and size recommendations.",
+    "url": "https://www.thirdlove.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "google-gemini-ai-shopping",
+    "name": "Google Gemini AI Shopping",
+    "description": "Google\\",
+    "url": "https://gemini.google.com",
+    "category": "agent-integrations"
+  },
+  {
+    "slug": "checkout-directory-api",
+    "name": "Checkout.directory API",
+    "description": "API service providing a searchable directory of UCP-enabled merchants for agent and application integration.",
+    "url": "https://checkout.directory",
+    "category": "agent-integrations"
+  },
+  {
+    "slug": "openai-shopping-plugin",
+    "name": "OpenAI Shopping Plugin",
+    "description": "ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI\\",
+    "url": "https://openai.com",
+    "category": "agent-integrations"
+  },
+  {
+    "slug": "anthropic-commerce-agent",
+    "name": "Anthropic Commerce Agent",
+    "description": "Claude-powered commerce agent using UCP for safe, transparent AI-assisted shopping with human oversight.",
+    "url": "https://www.anthropic.com",
+    "category": "agent-integrations"
+  },
+  {
+    "slug": "microsoft-copilot-shopping",
+    "name": "Microsoft Copilot Shopping",
+    "description": "Microsoft Copilot\\",
+    "url": "https://copilot.microsoft.com",
+    "category": "agent-integrations"
+  }
+]
