@@ -1,21 +1,33 @@
-# UCP Ecosystem
+# UCP Ecosystem [![GitHub Stars](https://img.shields.io/github/stars/Full-Vibe/ucp-ecosystem?style=flat&logo=github)](https://github.com/Full-Vibe/ucp-ecosystem/stargazers) [![GitHub Last Commit](https://img.shields.io/github/last-commit/Full-Vibe/ucp-ecosystem?style=flat)](https://github.com/Full-Vibe/ucp-ecosystem/commits) [![License: CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Full-Vibe/ucp-ecosystem/pulls)
 
-The open registry of [Universal Commerce Protocol (UCP)](https://ucp.dev) tools, merchants, platforms, and resources.
+> The open registry of [Universal Commerce Protocol (UCP)](https://ucp.dev) tools, merchants, platforms, and resources.
 
 **This data powers [ucplist.ai](https://ucplist.ai)** — the most comprehensive UCP directory on the web.
 
-## The List
+---
 
-### 🏗️ Platforms
+## Contents
+
+- [Platforms](#️-platforms)
+- [Payment Handlers](#-payment-handlers)
+- [Developer Tools](#-developer-tools)
+- [Merchants](#-merchants)
+- [Agent Integrations](#-agent-integrations)
+- [Structured Data](#structured-data)
+- [Contributing](#contributing)
+
+---
+
+## 🏗️ Platforms
 
 - **[Shopify](https://www.shopify.com)** — Leading e-commerce platform with native UCP checkout support for millions of merchants worldwide.
-- **[Google Shopping](https://shopping.google.com)** — Google\
+- **[Google Shopping](https://shopping.google.com)** — Google's shopping platform with UCP integration for AI-agent-driven product discovery and purchase.
 - **[Etsy](https://www.etsy.com)** — Handmade and vintage marketplace with UCP integration for unique product discovery by AI shopping agents.
 - **[Wayfair](https://www.wayfair.com)** — Home goods and furniture retailer supporting UCP for agent-assisted shopping of large-format items.
 - **[Target](https://www.target.com)** — Major US retailer with UCP-enabled checkout supporting AI-driven product discovery and same-day delivery.
-- **[Walmart](https://www.walmart.com)** — World\
+- **[Walmart](https://www.walmart.com)** — World's largest retailer with UCP checkout enabling AI-assisted shopping across millions of SKUs.
 
-### 💳 Payment Handlers
+## 💳 Payment Handlers
 
 - **[Stripe](https://stripe.com)** — Payment infrastructure provider with first-class UCP payment token exchange and checkout integration.
 - **[Adyen](https://www.adyen.com)** — Global payment platform supporting UCP transactions across 150+ currencies and local payment methods.
@@ -24,7 +36,7 @@ The open registry of [Universal Commerce Protocol (UCP)](https://ucp.dev) tools,
 - **[American Express](https://www.americanexpress.com)** — Premium payment network supporting UCP token exchange with enhanced purchase protections for agent-driven commerce.
 - **[PayPal](https://www.paypal.com)** — Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.
 
-### 🔧 Developer Tools
+## 🔧 Developer Tools
 
 - **[UCP SDK (Official)](https://github.com/AminTheDev/ucp-sdk)** — Official TypeScript/JavaScript SDK for building UCP-compatible checkout experiences and agent integrations.
 - **[UCP Conformance Test Suite](https://github.com/AminTheDev/ucp-conformance-tests)** — Automated test suite to validate UCP protocol compliance for merchants, platforms, and payment handlers.
@@ -33,7 +45,7 @@ The open registry of [Universal Commerce Protocol (UCP)](https://ucp.dev) tools,
 - **[UCP Checkout.js](https://github.com/AminTheDev/ucp-checkout-js)** — Drop-in JavaScript widget for adding UCP-compatible checkout to any website with minimal configuration.
 - **[UCP CLI Tools](https://github.com/AminTheDev/ucp-cli)** — Command-line tools for scaffolding, testing, and debugging UCP integrations from the terminal.
 
-### 🛒 Merchants
+## 🛒 Merchants
 
 - **[Nike](https://www.nike.com)** — Global sportswear brand with UCP checkout enabling AI-assisted shopping across footwear, apparel, and equipment.
 - **[Allbirds](https://www.allbirds.com)** — Sustainable footwear brand with UCP-enabled checkout for eco-conscious AI-assisted shopping.
@@ -46,13 +58,13 @@ The open registry of [Universal Commerce Protocol (UCP)](https://ucp.dev) tools,
 - **[Outdoor Voices](https://www.outdoorvoices.com)** — Activewear brand with UCP integration for AI-assisted athletic apparel shopping.
 - **[ThirdLove](https://www.thirdlove.com)** — Inclusive lingerie brand with UCP checkout featuring AI-assisted fit finding and size recommendations.
 
-### 🤖 Agent Integrations
+## 🤖 Agent Integrations
 
-- **[Google Gemini AI Shopping](https://gemini.google.com)** — Google\
+- **[Google Gemini AI Shopping](https://gemini.google.com)** — Google's Gemini AI with native UCP support for conversational product discovery and checkout.
 - **[Checkout.directory API](https://checkout.directory)** — API service providing a searchable directory of UCP-enabled merchants for agent and application integration.
-- **[OpenAI Shopping Plugin](https://openai.com)** — ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI\
+- **[OpenAI Shopping Plugin](https://openai.com)** — ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI's assistant interface.
 - **[Anthropic Commerce Agent](https://www.anthropic.com)** — Claude-powered commerce agent using UCP for safe, transparent AI-assisted shopping with human oversight.
-- **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot\
+- **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant using UCP for agent-driven commerce across the Microsoft ecosystem.
 
 ---
 
@@ -73,7 +85,7 @@ Found a UCP tool we're missing? Two ways to add it:
 
 We review every submission personally.
 
-## Why open source?
+## Why Open Source?
 
 UCP is an open protocol. Its ecosystem directory should be open too. We maintain this data so that:
 
