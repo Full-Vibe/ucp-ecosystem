@@ -229,5 +229,166 @@
     "description": "Microsoft Copilot\\",
     "url": "https://copilot.microsoft.com",
     "category": "agent-integrations"
+  },
+  {
+    "slug": "worldpay",
+    "name": "Worldpay",
+    "description": "Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.",
+    "url": "https://www.worldpay.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "nexi-group",
+    "name": "Nexi Group",
+    "description": "European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.",
+    "url": "https://www.nexigroup.com",
+    "category": "payment-handlers"
+  },
+  {
+    "slug": "ucp-python-sdk-official",
+    "name": "UCP Python SDK (Official)",
+    "description": "The official Python library for UCP with Pydantic models, maintained by the Universal Commerce Protocol organization.",
+    "url": "https://github.com/Universal-Commerce-Protocol/python-sdk",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-js-sdk-official",
+    "name": "UCP JavaScript SDK (Official)",
+    "description": "The official JavaScript/TypeScript SDK for UCP, maintained by the Universal Commerce Protocol organization.",
+    "url": "https://github.com/Universal-Commerce-Protocol/js-sdk",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucpstore",
+    "name": "UCPStore",
+    "description": "Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce) into UCP-compatible endpoints without platform migration.",
+    "url": "https://ucpstore.dev",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-checker",
+    "name": "UCP Checker",
+    "description": "Unofficial industry-standard validator that lints live UCP manifests for schema compliance, tests API latency, and generates verified badges.",
+    "url": "https://ucpchecker.com",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-lighthouse",
+    "name": "UCP Lighthouse",
+    "description": "Schema validator for UCP and community payloads, ensuring products are ready for AI-era agentic commerce including OpenAI/ChatGPT compatibility.",
+    "url": "https://ucp.rest",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-doctor",
+    "name": "UCP Doctor",
+    "description": "Diagnostic tool for validating Universal Commerce Protocol implementations with detailed compliance reports.",
+    "url": "https://doctor.awesomeucp.com",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-tools",
+    "name": "UCP.tools",
+    "description": "Free UCP profile validator and generator that checks Schema.org compliance, product feed quality, and AI commerce readiness.",
+    "url": "https://ucptools.dev",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "magento2-ucp-module",
+    "name": "Magento 2 UCP Module",
+    "description": "Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce, enabling UCP checkout for Magento-based stores.",
+    "url": "https://github.com/magebitcom/magento2-universal-commerce-module",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "ucp-go-sdk",
+    "name": "UCP Go SDK",
+    "description": "Community Go SDK for the Universal Commerce Protocol, enabling UCP integrations in Go-based services.",
+    "url": "https://github.com/dhananjay2021/ucp-go-sdk",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "qwed-ucp",
+    "name": "QWED UCP",
+    "description": "Verification tool for UCP transactions that catches AI math errors before payment, adding a trust layer to agentic commerce.",
+    "url": "https://github.com/QWED-AI/qwed-ucp",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "best-buy",
+    "name": "Best Buy",
+    "description": "Major electronics retailer and UCP endorser enabling AI-assisted shopping across consumer electronics and appliances.",
+    "url": "https://www.bestbuy.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "sephora",
+    "name": "Sephora",
+    "description": "Global beauty retailer supporting UCP for AI-driven product discovery across skincare, makeup, and fragrance.",
+    "url": "https://www.sephora.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "the-home-depot",
+    "name": "The Home Depot",
+    "description": "Largest home improvement retailer in the US, endorsing UCP for agent-assisted shopping of tools, materials, and home products.",
+    "url": "https://www.homedepot.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "macys",
+    "name": "Macy's",
+    "description": "Iconic department store chain supporting UCP-powered AI shopping across fashion, home, and beauty categories.",
+    "url": "https://www.macys.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "lowes",
+    "name": "Lowe's",
+    "description": "Home improvement retailer endorsing UCP for AI-assisted shopping of building materials, tools, and appliances.",
+    "url": "https://www.lowes.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "kroger",
+    "name": "Kroger",
+    "description": "Largest supermarket chain in the US, endorsing UCP for AI-powered grocery shopping and delivery.",
+    "url": "https://www.kroger.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "chewy",
+    "name": "Chewy",
+    "description": "Online pet retailer endorsing UCP for AI-assisted shopping of pet food, supplies, and pharmacy products.",
+    "url": "https://www.chewy.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "ulta",
+    "name": "Ulta",
+    "description": "Beauty retailer with both prestige and mass-market brands, endorsing UCP for AI-driven beauty product discovery.",
+    "url": "https://www.ulta.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "zalando",
+    "name": "Zalando",
+    "description": "Europe's leading online fashion and lifestyle platform, endorsing UCP for AI-assisted shopping across European markets.",
+    "url": "https://www.zalando.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "carrefour",
+    "name": "Carrefour",
+    "description": "Major international retailer endorsing UCP for AI-powered grocery and general merchandise shopping globally.",
+    "url": "https://www.carrefour.com",
+    "category": "merchants"
+  },
+  {
+    "slug": "gap",
+    "name": "Gap",
+    "description": "Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.",
+    "url": "https://www.gap.com",
+    "category": "merchants"
   }
 ]

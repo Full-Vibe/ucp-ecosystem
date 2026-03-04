@@ -35,15 +35,27 @@
 - **[Mastercard](https://www.mastercard.com)** — Payment network with UCP-compatible tokenized payment capabilities for secure agent-driven transactions.
 - **[American Express](https://www.americanexpress.com)** — Premium payment network supporting UCP token exchange with enhanced purchase protections for agent-driven commerce.
 - **[PayPal](https://www.paypal.com)** — Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.
+- **[Worldpay](https://www.worldpay.com)** — Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.
+- **[Nexi Group](https://www.nexigroup.com)** — European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.
 
 ## 🔧 Developer Tools
 
 - **[UCP SDK (Official)](https://github.com/AminTheDev/ucp-sdk)** — Official TypeScript/JavaScript SDK for building UCP-compatible checkout experiences and agent integrations.
+- **[UCP Python SDK (Official)](https://github.com/Universal-Commerce-Protocol/python-sdk)** — The official Python library for UCP with Pydantic models, maintained by the UCP organization.
+- **[UCP JavaScript SDK (Official)](https://github.com/Universal-Commerce-Protocol/js-sdk)** — The official JavaScript/TypeScript SDK maintained by the UCP organization.
 - **[UCP Conformance Test Suite](https://github.com/AminTheDev/ucp-conformance-tests)** — Automated test suite to validate UCP protocol compliance for merchants, platforms, and payment handlers.
 - **[UCP Samples Repository](https://github.com/AminTheDev/ucp-samples)** — Collection of example integrations and starter templates for common UCP implementation patterns.
 - **[UCP Schema Validator](https://github.com/AminTheDev/ucp-schema-validator)** — CLI and library for validating UCP message payloads against the official JSON schema specification.
 - **[UCP Checkout.js](https://github.com/AminTheDev/ucp-checkout-js)** — Drop-in JavaScript widget for adding UCP-compatible checkout to any website with minimal configuration.
 - **[UCP CLI Tools](https://github.com/AminTheDev/ucp-cli)** — Command-line tools for scaffolding, testing, and debugging UCP integrations from the terminal.
+- **[UCPStore](https://ucpstore.dev)** — Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce) into UCP-compatible endpoints.
+- **[UCP Checker](https://ucpchecker.com)** — Unofficial industry-standard validator that lints live UCP manifests for schema compliance and tests API latency.
+- **[UCP Lighthouse](https://ucp.rest)** — Schema validator for UCP and community payloads, ensuring AI-era agentic commerce readiness.
+- **[UCP Doctor](https://doctor.awesomeucp.com)** — Diagnostic tool for validating UCP implementations with detailed compliance reports.
+- **[UCP.tools](https://ucptools.dev)** — Free UCP profile validator and generator checking Schema.org compliance and product feed quality.
+- **[Magento 2 UCP Module](https://github.com/magebitcom/magento2-universal-commerce-module)** — Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce.
+- **[UCP Go SDK](https://github.com/dhananjay2021/ucp-go-sdk)** — Community Go SDK for the Universal Commerce Protocol.
+- **[QWED UCP](https://github.com/QWED-AI/qwed-ucp)** — Verification tool for UCP transactions that catches AI math errors before payment.
 
 ## 🛒 Merchants
 
@@ -57,6 +69,17 @@
 - **[Bombas](https://bombas.com)** — Comfort-focused sock and apparel brand with UCP checkout supporting subscription and bulk orders.
 - **[Outdoor Voices](https://www.outdoorvoices.com)** — Activewear brand with UCP integration for AI-assisted athletic apparel shopping.
 - **[ThirdLove](https://www.thirdlove.com)** — Inclusive lingerie brand with UCP checkout featuring AI-assisted fit finding and size recommendations.
+- **[Best Buy](https://www.bestbuy.com)** — Major electronics retailer and UCP endorser enabling AI-assisted shopping across consumer electronics and appliances.
+- **[Sephora](https://www.sephora.com)** — Global beauty retailer supporting UCP for AI-driven product discovery across skincare, makeup, and fragrance.
+- **[The Home Depot](https://www.homedepot.com)** — Largest home improvement retailer in the US, endorsing UCP for agent-assisted shopping.
+- **[Macy's](https://www.macys.com)** — Iconic department store chain supporting UCP-powered AI shopping across fashion, home, and beauty.
+- **[Lowe's](https://www.lowes.com)** — Home improvement retailer endorsing UCP for AI-assisted shopping of building materials, tools, and appliances.
+- **[Kroger](https://www.kroger.com)** — Largest US supermarket chain, endorsing UCP for AI-powered grocery shopping and delivery.
+- **[Chewy](https://www.chewy.com)** — Online pet retailer endorsing UCP for AI-assisted shopping of pet food, supplies, and pharmacy products.
+- **[Ulta](https://www.ulta.com)** — Beauty retailer endorsing UCP for AI-driven beauty product discovery across prestige and mass-market brands.
+- **[Zalando](https://www.zalando.com)** — Europe's leading online fashion platform, endorsing UCP for AI-assisted shopping across European markets.
+- **[Carrefour](https://www.carrefour.com)** — Major international retailer endorsing UCP for AI-powered grocery and general merchandise shopping.
+- **[Gap](https://www.gap.com)** — Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.
 
 ## 🤖 Agent Integrations
 
