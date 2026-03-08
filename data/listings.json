@@ -85,44 +85,23 @@
   },
   {
     "slug": "ucp-sdk",
-    "name": "UCP SDK (Official)",
-    "description": "Official TypeScript/JavaScript SDK for building UCP-compatible checkout experiences and agent integrations.",
-    "url": "https://github.com/AminTheDev/ucp-sdk",
+    "name": "UCP JavaScript SDK (Official)",
+    "description": "Official JavaScript/TypeScript SDK for UCP, maintained by the Universal Commerce Protocol organization.",
+    "url": "https://github.com/Universal-Commerce-Protocol/js-sdk",
     "category": "developer-tools"
   },
   {
     "slug": "ucp-conformance-test-suite",
-    "name": "UCP Conformance Test Suite",
-    "description": "Automated test suite to validate UCP protocol compliance for merchants, platforms, and payment handlers.",
-    "url": "https://github.com/AminTheDev/ucp-conformance-tests",
+    "name": "UCP Conformance Tests (Official)",
+    "description": "Official conformance test suite for validating UCP protocol compliance.",
+    "url": "https://github.com/Universal-Commerce-Protocol/conformance",
     "category": "developer-tools"
   },
   {
     "slug": "ucp-samples-repository",
-    "name": "UCP Samples Repository",
-    "description": "Collection of example integrations and starter templates for common UCP implementation patterns.",
-    "url": "https://github.com/AminTheDev/ucp-samples",
-    "category": "developer-tools"
-  },
-  {
-    "slug": "ucp-schema-validator",
-    "name": "UCP Schema Validator",
-    "description": "CLI and library for validating UCP message payloads against the official JSON schema specification.",
-    "url": "https://github.com/AminTheDev/ucp-schema-validator",
-    "category": "developer-tools"
-  },
-  {
-    "slug": "ucp-checkout-js",
-    "name": "UCP Checkout.js",
-    "description": "Drop-in JavaScript widget for adding UCP-compatible checkout to any website with minimal configuration.",
-    "url": "https://github.com/AminTheDev/ucp-checkout-js",
-    "category": "developer-tools"
-  },
-  {
-    "slug": "ucp-cli-tools",
-    "name": "UCP CLI Tools",
-    "description": "Command-line tools for scaffolding, testing, and debugging UCP integrations from the terminal.",
-    "url": "https://github.com/AminTheDev/ucp-cli",
+    "name": "UCP Samples (Official)",
+    "description": "Official sample implementations and examples for the Universal Commerce Protocol.",
+    "url": "https://github.com/Universal-Commerce-Protocol/samples",
     "category": "developer-tools"
   },
   {
@@ -390,5 +369,80 @@
     "description": "Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.",
     "url": "https://www.gap.com",
     "category": "merchants"
+  },
+  {
+    "slug": "ucp-python-sdk",
+    "name": "UCP Python SDK (Official)",
+    "description": "Official Python SDK for UCP with type-safe Pydantic models and client utilities.",
+    "url": "https://github.com/Universal-Commerce-Protocol/python-sdk",
+    "category": "developer-tools",
+    "tags": [
+      "python",
+      "sdk",
+      "official",
+      "open-source"
+    ],
+    "status": "verified",
+    "openSource": true
+  },
+  {
+    "slug": "ucptools",
+    "name": "UCPtools",
+    "description": "UCP profile validator, generator, and merchant directory by the community.",
+    "url": "https://ucptools.dev",
+    "category": "developer-tools",
+    "tags": [
+      "validator",
+      "generator",
+      "directory",
+      "community"
+    ],
+    "status": "community-submitted",
+    "openSource": false
+  },
+  {
+    "slug": "swagucp",
+    "name": "SwagUcp",
+    "description": "Shopware 6 plugin for UCP integration.",
+    "url": "https://github.com/agentic-commerce-lab/SwagUcp",
+    "category": "developer-tools",
+    "tags": [
+      "shopware",
+      "plugin",
+      "ecommerce",
+      "community"
+    ],
+    "status": "community-submitted",
+    "openSource": true
+  },
+  {
+    "slug": "fastucp",
+    "name": "FastUCP",
+    "description": "FastAPI-based UCP server implementation.",
+    "url": "https://github.com/MehmetHilmiEmel/fastucp",
+    "category": "developer-tools",
+    "tags": [
+      "python",
+      "fastapi",
+      "server",
+      "community"
+    ],
+    "status": "community-submitted",
+    "openSource": true
+  },
+  {
+    "slug": "woocommerce-ucp",
+    "name": "WooCommerce UCP Bridge",
+    "description": "WooCommerce bridge for UCP compatibility.",
+    "url": "https://github.com/Redemptive-Software/woocommerce-ucp",
+    "category": "developer-tools",
+    "tags": [
+      "woocommerce",
+      "wordpress",
+      "plugin",
+      "community"
+    ],
+    "status": "community-submitted",
+    "openSource": true
   }
 ]
