@@ -444,5 +444,38 @@
     ],
     "status": "community-submitted",
     "openSource": true
+  },
+  {
+    "slug": "splitit",
+    "name": "Splitit",
+    "description": "Card-linked installment payments platform backing UCP to enable flexible pay-over-time options in agentic commerce flows.",
+    "url": "https://www.splitit.com",
+    "category": "payment-handlers",
+    "tags": [
+      "payments",
+      "bnpl",
+      "installments",
+      "card-linked"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-03-05",
+    "sourceUrl": "https://www.prnewswire.com/news-releases/splitit-backs-googles-universal-commerce-protocol-ucp-advancing-agentic-commerce-with-card-linked-installments-302704626.html"
+  },
+  {
+    "slug": "mastercard-verifiable-intent",
+    "name": "Mastercard Verifiable Intent",
+    "description": "Open-source trust framework from Mastercard that creates tamper-resistant records of AI agent authorizations, aligned with UCP and AP2 standards.",
+    "url": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html",
+    "category": "developer-tools",
+    "tags": [
+      "security",
+      "trust",
+      "authentication",
+      "open-source",
+      "standards"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-03-05",
+    "sourceUrl": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html"
   }
 ]

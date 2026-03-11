@@ -37,6 +37,7 @@
 - **[PayPal](https://www.paypal.com)** — Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.
 - **[Worldpay](https://www.worldpay.com)** — Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.
 - **[Nexi Group](https://www.nexigroup.com)** — European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.
+- **[Splitit](https://www.splitit.com)** — Card-linked installment payments platform backing UCP to enable flexible pay-over-time options in agentic commerce flows. *(Added 2026-03-05)*
 
 ## 🔧 Developer Tools
 
@@ -56,6 +57,7 @@
 - **[Magento 2 UCP Module](https://github.com/magebitcom/magento2-universal-commerce-module)** — Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce.
 - **[UCP Go SDK](https://github.com/dhananjay2021/ucp-go-sdk)** — Community Go SDK for the Universal Commerce Protocol.
 - **[QWED UCP](https://github.com/QWED-AI/qwed-ucp)** — Verification tool for UCP transactions that catches AI math errors before payment.
+- **[Mastercard Verifiable Intent](https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html)** — Open-source trust framework creating tamper-resistant records of AI agent authorizations, aligned with UCP and AP2 standards. *(Added 2026-03-05)*
 
 ## 🛒 Merchants
 
