@@ -26,6 +26,8 @@
 - **[Wayfair](https://www.wayfair.com)** — Home goods and furniture retailer supporting UCP for agent-assisted shopping of large-format items.
 - **[Target](https://www.target.com)** — Major US retailer with UCP-enabled checkout supporting AI-driven product discovery and same-day delivery.
 - **[Walmart](https://www.walmart.com)** — World's largest retailer with UCP checkout enabling AI-assisted shopping across millions of SKUs.
+- **[Salesforce Agentforce Commerce](https://www.salesforce.com/news/stories/google-universal-commerce-protocol-support-announcement/)** — Salesforce announced native UCP support for Agentforce Commerce merchants, enabling AI-driven shopping journeys across Google AI surfaces. *(announced March 2026)*
+- **[Commerce Inc (BigCommerce)](https://www.commerce.com)** — Parent of BigCommerce and Feedonomics; announced UCP endorsement to enable merchants to sell directly across Google AI surfaces. *(announced March 2026)*
 
 ## 💳 Payment Handlers
 
@@ -58,6 +60,9 @@
 - **[UCP Go SDK](https://github.com/dhananjay2021/ucp-go-sdk)** — Community Go SDK for the Universal Commerce Protocol.
 - **[QWED UCP](https://github.com/QWED-AI/qwed-ucp)** — Verification tool for UCP transactions that catches AI math errors before payment.
 - **[Mastercard Verifiable Intent](https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html)** — Open-source trust framework creating tamper-resistant records of AI agent authorizations, aligned with UCP and AP2 standards. *(Added 2026-03-05)*
+- **[UCP Cart Capability](https://ucp.dev/draft/specification/cart/)** — New optional UCP spec capability (March 2026) enabling AI agents to add multiple items to a shopping cart in one operation, matching how human shoppers behave.
+- **[UCP Catalog Capability](https://ucp.dev/draft/specification/catalog/)** — New optional UCP spec capability (March 2026) allowing AI agents to retrieve real-time product details from retailer catalogs, including variants, inventory, and pricing.
+- **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
 
 ## 🛒 Merchants
 

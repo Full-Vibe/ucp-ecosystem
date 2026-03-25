@@ -477,5 +477,89 @@
     "ucpStatus": "announced",
     "addedDate": "2026-03-05",
     "sourceUrl": "https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html"
+  },
+  {
+    "slug": "salesforce-agentforce-commerce",
+    "name": "Salesforce Agentforce Commerce",
+    "description": "Salesforce announced native UCP support for Agentforce Commerce merchants, enabling AI-driven shopping journeys across Google AI surfaces including AI Mode in Search and Gemini.",
+    "url": "https://www.salesforce.com/news/stories/google-universal-commerce-protocol-support-announcement/",
+    "category": "platforms",
+    "tags": [
+      "crm",
+      "enterprise",
+      "saas",
+      "agentforce",
+      "commerce-cloud"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-03-25",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
+  },
+  {
+    "slug": "commerce-inc-bigcommerce",
+    "name": "Commerce Inc (BigCommerce)",
+    "description": "Commerce Inc (Nasdaq: CMRC), parent of BigCommerce and Feedonomics, announced UCP endorsement enabling merchants to sell directly across Google AI surfaces including AI Mode in Search.",
+    "url": "https://www.commerce.com",
+    "category": "platforms",
+    "tags": [
+      "e-commerce",
+      "saas",
+      "bigcommerce",
+      "feedonomics",
+      "open-saas"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-03-25",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
+  },
+  {
+    "slug": "ucp-cart-capability",
+    "name": "UCP Cart Capability",
+    "description": "New optional UCP capability (March 2026) enabling AI agents to save or add multiple items to a shopping cart at once from a single store, matching how human shoppers typically behave.",
+    "url": "https://ucp.dev/draft/specification/cart/",
+    "category": "developer-tools",
+    "tags": [
+      "specification",
+      "cart",
+      "multi-item",
+      "agentic-shopping"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-03-25",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
+  },
+  {
+    "slug": "ucp-catalog-capability",
+    "name": "UCP Catalog Capability",
+    "description": "New optional UCP capability (March 2026) allowing AI agents to retrieve real-time product details from retailer catalogs, including variants, inventory, and pricing.",
+    "url": "https://ucp.dev/draft/specification/catalog/",
+    "category": "developer-tools",
+    "tags": [
+      "specification",
+      "catalog",
+      "real-time",
+      "inventory",
+      "pricing"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-03-25",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
+  },
+  {
+    "slug": "ucp-identity-linking",
+    "name": "UCP Identity Linking",
+    "description": "UCP capability (March 2026) that lets shoppers carry loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms by preserving logged-in identity.",
+    "url": "https://ucp.dev/latest/specification/identity-linking/",
+    "category": "developer-tools",
+    "tags": [
+      "specification",
+      "identity",
+      "loyalty",
+      "authentication",
+      "benefits"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-03-25",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
   }
 ]
