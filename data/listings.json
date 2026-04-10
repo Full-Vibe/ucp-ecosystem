@@ -561,5 +561,28 @@
     "ucpStatus": "live",
     "addedDate": "2026-03-25",
     "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/ucp-updates/"
+  },
+  {
+    "slug": "global-chat",
+    "name": "Global Chat",
+    "description": "Cross-protocol AI agent discovery infrastructure. Directory of 18K+ MCP servers across 6+ registries with cross-search, free agents.txt validator, and MCP server for programmatic agent discovery spanning MCP, A2A, and agents.txt protocols.",
+    "url": "https://global-chat.io?utm_source=ucplist&utm_medium=directory&utm_campaign=rA-069-010",
+    "category": "agent-integrations",
+    "tags": [
+      "ai-agents",
+      "agent-discovery",
+      "mcp",
+      "agents-txt",
+      "a2a",
+      "developer-tools",
+      "open-source"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/pumanitro/global-chat",
+    "docsUrl": "https://global-chat.io/docs",
+    "pricing": "free",
+    "ucpStatus": "announced",
+    "addedDate": "2026-04-10"
   }
 ]
