@@ -94,7 +94,8 @@
 - **[Checkout.directory API](https://checkout.directory)** — API service providing a searchable directory of UCP-enabled merchants for agent and application integration.
 - **[OpenAI Shopping Plugin](https://openai.com)** — ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI's assistant interface.
 - **[Anthropic Commerce Agent](https://www.anthropic.com)** — Claude-powered commerce agent using UCP for safe, transparent AI-assisted shopping with human oversight.
-- **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant using UCP for agent-driven commerce across the Microsoft ecosystem.
+- **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant with live UCP support across Windows, Edge, Bing, and Microsoft 365 — now includes WooCommerce Brand Agents, mobile checkout, and loyalty integration. *(Updated April 2026)*
+- **[Microsoft Advertising (Bing Shopping)](https://about.ads.microsoft.com)** — Microsoft Advertising adding UCP feed support so merchants with UCP endpoints surface in Bing Shopping agentic experiences without a separate product feed. *(Added April 2026)*
 
 ---
 

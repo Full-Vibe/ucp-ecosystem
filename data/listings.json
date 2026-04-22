@@ -205,9 +205,17 @@
   {
     "slug": "microsoft-copilot-shopping",
     "name": "Microsoft Copilot Shopping",
-    "description": "Microsoft Copilot\\",
+    "description": "Microsoft Copilot shopping integration with live UCP support \u2014 now includes WooCommerce Brand Agents, mobile checkout, and loyalty program integration.",
     "url": "https://copilot.microsoft.com",
-    "category": "agent-integrations"
+    "category": "agent-integrations",
+    "status": "verified",
+    "ucpStatus": "live",
+    "tags": [
+      "woocommerce",
+      "loyalty",
+      "mobile"
+    ],
+    "lastVerified": "2026-04-21"
   },
   {
     "slug": "worldpay",
@@ -584,5 +592,24 @@
     "pricing": "free",
     "ucpStatus": "announced",
     "addedDate": "2026-04-10"
+  },
+  {
+    "slug": "microsoft-advertising-ucp",
+    "name": "Microsoft Advertising (Bing Shopping)",
+    "description": "Microsoft Advertising is adding UCP feed support to Bing Shopping, enabling merchants with UCP endpoints to surface structured, agent-optimized product data across Bing and Copilot ad surfaces.",
+    "url": "https://about.ads.microsoft.com",
+    "category": "agent-integrations",
+    "tags": [
+      "microsoft",
+      "advertising",
+      "bing",
+      "shopping-ads",
+      "product-discovery",
+      "paid-search"
+    ],
+    "status": "community-submitted",
+    "pricing": "paid",
+    "ucpStatus": "announced",
+    "addedDate": "2026-04-22"
   }
 ]
