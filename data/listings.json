@@ -611,5 +611,19 @@
     "pricing": "paid",
     "ucpStatus": "announced",
     "addedDate": "2026-04-22"
+  },
+  {
+    "slug": "amazon",
+    "name": "Amazon",
+    "description": "World's largest e-commerce marketplace and UCP Tech Council member, bringing hundreds of millions of shoppers and sellers into the agentic commerce ecosystem.",
+    "url": "https://www.amazon.com",
+    "category": "platforms"
+  },
+  {
+    "slug": "meta-shops",
+    "name": "Meta (Facebook & Instagram Shops)",
+    "description": "Meta joined the UCP Tech Council in April 2026, integrating Facebook Shops and Instagram Shopping into the open agentic commerce standard.",
+    "url": "https://www.facebook.com/business/shops",
+    "category": "social-commerce"
   }
 ]

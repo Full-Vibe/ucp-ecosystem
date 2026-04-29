@@ -28,6 +28,7 @@
 - **[Walmart](https://www.walmart.com)** — World's largest retailer with UCP checkout enabling AI-assisted shopping across millions of SKUs.
 - **[Salesforce Agentforce Commerce](https://www.salesforce.com/news/stories/google-universal-commerce-protocol-support-announcement/)** — Salesforce announced native UCP support for Agentforce Commerce merchants, enabling AI-driven shopping journeys across Google AI surfaces. *(announced March 2026)*
 - **[Commerce Inc (BigCommerce)](https://www.commerce.com)** — Parent of BigCommerce and Feedonomics; announced UCP endorsement to enable merchants to sell directly across Google AI surfaces. *(announced March 2026)*
+- **[Amazon](https://www.amazon.com)** — World's largest e-commerce marketplace and UCP Tech Council member (joined April 2026), bringing hundreds of millions of shoppers and sellers into the agentic commerce ecosystem. *(Tech Council April 2026)*
 
 ## 💳 Payment Handlers
 
@@ -96,6 +97,10 @@
 - **[Anthropic Commerce Agent](https://www.anthropic.com)** — Claude-powered commerce agent using UCP for safe, transparent AI-assisted shopping with human oversight.
 - **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant with live UCP support across Windows, Edge, Bing, and Microsoft 365 — now includes WooCommerce Brand Agents, mobile checkout, and loyalty integration. *(Updated April 2026)*
 - **[Microsoft Advertising (Bing Shopping)](https://about.ads.microsoft.com)** — Microsoft Advertising adding UCP feed support so merchants with UCP endpoints surface in Bing Shopping agentic experiences without a separate product feed. *(Added April 2026)*
+
+## 📱 Social Commerce
+
+- **[Meta (Facebook & Instagram Shops)](https://www.facebook.com/business/shops)** — Meta joined the UCP Tech Council in April 2026, integrating Facebook Shops and Instagram Shopping into the open agentic commerce standard, enabling AI agents to discover and purchase across Meta's social commerce surfaces. *(Tech Council April 2026)*
 
 ---
 
