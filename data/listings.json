@@ -274,6 +274,13 @@
     "category": "developer-tools"
   },
   {
+    "slug": "ucp-merchants",
+    "name": "UCP Merchants",
+    "description": "Directory of verified UCP-enabled merchants compatible with AI shopping agents, curated by the AwesomeUCP community.",
+    "url": "https://merchants.awesomeucp.com",
+    "category": "developer-tools"
+  },
+  {
     "slug": "ucp-tools",
     "name": "UCP.tools",
     "description": "Free UCP profile validator and generator that checks Schema.org compliance, product feed quality, and AI commerce readiness.",
