@@ -632,5 +632,40 @@
     "description": "Meta joined the UCP Tech Council in April 2026, integrating Facebook Shops and Instagram Shopping into the open agentic commerce standard.",
     "url": "https://www.facebook.com/business/shops",
     "category": "social-commerce"
+  },
+  {
+    "slug": "ucp-demo-playground",
+    "name": "UCP Demo Playground",
+    "description": "Community-built interactive playground for experimenting with UCP, built following Google's developer guide.",
+    "url": "https://ucp-demo.web.app",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "upsonic-ucp-agent",
+    "name": "Upsonic UCP Agent",
+    "description": "Open-source AI shopping assistant built with the Upsonic framework, demonstrating the full UCP purchasing flow.",
+    "url": "https://github.com/Upsonic/UCP-Agent",
+    "category": "agent-integrations"
+  },
+  {
+    "slug": "upsonic-ucp-client-python",
+    "name": "Upsonic UCP Client Python",
+    "description": "Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.",
+    "url": "https://github.com/Upsonic/ucp-client-python",
+    "category": "developer-tools"
+  },
+  {
+    "slug": "agent-payments-protocol",
+    "name": "Agent Payments Protocol (AP2)",
+    "description": "Google's secure payment authorization protocol for AI agents, providing cryptographic consent for UCP transactions.",
+    "url": "https://github.com/google-agentic-commerce/AP2",
+    "category": "related-protocols"
+  },
+  {
+    "slug": "agentic-commerce-protocol",
+    "name": "Agentic Commerce Protocol (ACP)",
+    "description": "Open standard for AI-native commerce, complementary to UCP, with a focus on high-level commerce action orchestration.",
+    "url": "https://agentic-commerce-protocol.com",
+    "category": "related-protocols"
   }
 ]

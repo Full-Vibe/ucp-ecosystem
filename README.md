@@ -90,6 +90,9 @@
 - **[Carrefour](https://www.carrefour.com)** — Major international retailer endorsing UCP for AI-powered grocery and general merchandise shopping.
 - **[Gap](https://www.gap.com)** — Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.
 
+- **[UCP Demo Playground](https://ucp-demo.web.app)** — Community-built interactive playground for experimenting with UCP, built following Google's developer guide.
+- **[Upsonic UCP Client Python](https://github.com/Upsonic/ucp-client-python)** — Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.
+
 ## 🤖 Agent Integrations
 
 - **[Google Gemini AI Shopping](https://gemini.google.com)** — Google's Gemini AI with native UCP support for conversational product discovery and checkout.
@@ -97,6 +100,8 @@
 - **[OpenAI Shopping Plugin](https://openai.com)** — ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI's assistant interface.
 - **[Anthropic Commerce Agent](https://www.anthropic.com)** — Claude-powered commerce agent using UCP for safe, transparent AI-assisted shopping with human oversight.
 - **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant with live UCP support across Windows, Edge, Bing, and Microsoft 365 — now includes WooCommerce Brand Agents, mobile checkout, and loyalty integration. *(Updated April 2026)*
+- **[Upsonic UCP Agent](https://github.com/Upsonic/UCP-Agent)** — Open-source AI shopping assistant built with the Upsonic framework, demonstrating the full UCP purchasing flow.
+
 - **[Microsoft Advertising (Bing Shopping)](https://about.ads.microsoft.com)** — Microsoft Advertising adding UCP feed support so merchants with UCP endpoints surface in Bing Shopping agentic experiences without a separate product feed. *(Added April 2026)*
 
 ## 📱 Social Commerce
@@ -138,3 +143,8 @@ Data is available under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/
 ---
 
 Maintained by [FullVibeAI](https://fullvibe.ai) · Built with a little help from 🦀
+
+## 🔗 Related Protocols
+
+- **[Agent Payments Protocol (AP2)](https://github.com/google-agentic-commerce/AP2)** — Google's secure payment authorization protocol for AI agents, providing cryptographic consent for UCP transactions.
+- **[Agentic Commerce Protocol (ACP)](https://agentic-commerce-protocol.com)** — Open standard for AI-native commerce, complementary to UCP, with a focus on high-level commerce action orchestration.
