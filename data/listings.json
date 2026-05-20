@@ -109,7 +109,16 @@
     "name": "Nike",
     "description": "Global sportswear brand with UCP checkout enabling AI-assisted shopping across footwear, apparel, and equipment.",
     "url": "https://www.nike.com",
-    "category": "merchants"
+    "category": "merchants",
+    "tags": [
+      "footwear",
+      "apparel",
+      "sportswear",
+      "direct-to-consumer"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/"
   },
   {
     "slug": "allbirds",
@@ -715,5 +724,65 @@
     "ucpStatus": "live",
     "addedDate": "2026-05-20",
     "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/"
+  },
+  {
+    "slug": "google-universal-cart",
+    "name": "Google Universal Cart",
+    "description": "Google's cross-merchant intelligent shopping cart launching in Search and Gemini, backed by Gemini reasoning models and native Google Wallet.",
+    "url": "https://shopping.google.com",
+    "category": "platforms",
+    "tags": [
+      "shopping-cart",
+      "agentic-commerce",
+      "google",
+      "cross-merchant",
+      "ai"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "payment-token-exchange"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/"
+  },
+  {
+    "slug": "google-ask-advisor",
+    "name": "Google Ask Advisor",
+    "description": "Google's AI-powered conversational assistant integrated into Ads, Analytics, and Merchant Center for campaign optimization and UCP performance insights.",
+    "url": "https://merchants.google.com",
+    "category": "tools",
+    "tags": [
+      "ai",
+      "merchant-center",
+      "analytics",
+      "google",
+      "conversational-ai"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://searchengineland.com/google-launches-ask-advisor-across-ads-analytics-and-merchant-center-478114"
+  },
+  {
+    "slug": "google-direct-offers",
+    "name": "Google Direct Offers",
+    "description": "Google's UCP-powered ad format enabling merchants to surface exclusive promotions with native checkout in Search and YouTube Shopping campaigns.",
+    "url": "https://ads.google.com",
+    "category": "tools",
+    "tags": [
+      "ads",
+      "promotions",
+      "ucp-checkout",
+      "google",
+      "shopping-ads",
+      "youtube"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://searchengineland.com/google-expands-universal-commerce-protocol-and-launches-new-agentic-shopping-tools-478113"
   }
 ]
