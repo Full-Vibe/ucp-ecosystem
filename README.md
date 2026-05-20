@@ -41,6 +41,8 @@
 - **[Worldpay](https://www.worldpay.com)** — Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.
 - **[Nexi Group](https://www.nexigroup.com)** — European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.
 - **[Splitit](https://www.splitit.com)** — Card-linked installment payments platform backing UCP to enable flexible pay-over-time options in agentic commerce flows. *(Added 2026-03-05)*
+- **[Affirm](https://www.affirm.com)** — Buy now, pay later platform integrated with Google Pay and UCP for installment financing at checkout within AI-assisted commerce flows. *(Announced Google Marketing Live, May 2026)*
+- **[Klarna](https://www.klarna.com)** — Global BNPL leader integrated with Google Pay and UCP, enabling flexible pay-over-time options in agentic checkout flows. *(Announced Google Marketing Live, May 2026)*
 
 ## 🔧 Developer Tools
 
@@ -89,6 +91,7 @@
 - **[Zalando](https://www.zalando.com)** — Europe's leading online fashion platform, endorsing UCP for AI-assisted shopping across European markets.
 - **[Carrefour](https://www.carrefour.com)** — Major international retailer endorsing UCP for AI-powered grocery and general merchandise shopping.
 - **[Gap](https://www.gap.com)** — Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.
+- **[Steve Madden](https://www.stevemadden.com)** — Iconic footwear and accessories brand named by Google at Marketing Live 2026 as a live UCP checkout partner via Shopify. *(Added May 2026)*
 
 - **[UCP Demo Playground](https://ucp-demo.web.app)** — Community-built interactive playground for experimenting with UCP, built following Google's developer guide.
 - **[Upsonic UCP Client Python](https://github.com/Upsonic/ucp-client-python)** — Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.

@@ -667,5 +667,53 @@
     "description": "Open standard for AI-native commerce, complementary to UCP, with a focus on high-level commerce action orchestration.",
     "url": "https://agentic-commerce-protocol.com",
     "category": "related-protocols"
+  },
+  {
+    "slug": "affirm",
+    "name": "Affirm",
+    "description": "Buy now, pay later platform integrated with Google Pay and UCP for installment financing at checkout within AI-assisted commerce flows.",
+    "url": "https://www.affirm.com",
+    "category": "payment-handlers",
+    "tags": [
+      "bnpl",
+      "installments",
+      "payments",
+      "fintech"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://searchengineland.com/google-expands-universal-commerce-protocol-and-launches-new-agentic-shopping-tools-478113"
+  },
+  {
+    "slug": "klarna",
+    "name": "Klarna",
+    "description": "Global buy now pay later leader integrated with Google Pay and UCP, enabling flexible payment options in agentic checkout flows.",
+    "url": "https://www.klarna.com",
+    "category": "payment-handlers",
+    "tags": [
+      "bnpl",
+      "installments",
+      "payments",
+      "global"
+    ],
+    "ucpStatus": "announced",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://searchengineland.com/google-expands-universal-commerce-protocol-and-launches-new-agentic-shopping-tools-478113"
+  },
+  {
+    "slug": "steve-madden",
+    "name": "Steve Madden",
+    "description": "Iconic footwear and accessories brand. Named by Google at Marketing Live 2026 as a live UCP checkout partner via Shopify.",
+    "url": "https://www.stevemadden.com",
+    "category": "merchants",
+    "tags": [
+      "footwear",
+      "fashion",
+      "accessories",
+      "shopify"
+    ],
+    "ucpStatus": "live",
+    "addedDate": "2026-05-20",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/"
   }
 ]
