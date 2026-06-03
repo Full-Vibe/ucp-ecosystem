@@ -784,5 +784,163 @@
     "ucpStatus": "announced",
     "addedDate": "2026-05-20",
     "sourceUrl": "https://searchengineland.com/google-expands-universal-commerce-protocol-and-launches-new-agentic-shopping-tools-478113"
+  },
+  {
+    "slug": "ucp-spec",
+    "name": "UCP Specification",
+    "description": "Official Universal Commerce Protocol specification and documentation repository maintained by the UCP organization.",
+    "url": "https://github.com/Universal-Commerce-Protocol/ucp",
+    "category": "developer-tools",
+    "tags": [
+      "official",
+      "specification",
+      "documentation",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/Universal-Commerce-Protocol/ucp",
+    "docsUrl": "https://ucp.dev",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live"
+  },
+  {
+    "slug": "ucp-schema-official",
+    "name": "UCP Schema",
+    "description": "Official CLI and library for composing, resolving, linting, and validating UCP JSON Schema payloads.",
+    "url": "https://github.com/Universal-Commerce-Protocol/ucp-schema",
+    "category": "developer-tools",
+    "tags": [
+      "official",
+      "schema",
+      "json-schema",
+      "validator",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/Universal-Commerce-Protocol/ucp-schema",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live"
+  },
+  {
+    "slug": "shopify-checkout-kit",
+    "name": "Shopify Agentic Commerce with UCP",
+    "description": "Shopify's official agentic commerce documentation and UCP CLI flow for searching catalogs, building carts, creating checkouts, and tracking orders.",
+    "url": "https://shopify.dev/docs/agents",
+    "category": "developer-tools",
+    "tags": [
+      "shopify",
+      "official",
+      "cli",
+      "agentic-commerce",
+      "mcp"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management"
+    ],
+    "status": "verified",
+    "docsUrl": "https://shopify.dev/docs/agents",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live"
+  },
+  {
+    "slug": "google-merchant-ucp-guide",
+    "name": "Google UCP Merchant Guide",
+    "description": "Google's official merchant guide for implementing UCP to enable direct buying from AI Mode in Search and Gemini.",
+    "url": "https://developers.google.com/merchant/ucp",
+    "category": "developer-tools",
+    "tags": [
+      "google",
+      "merchant-center",
+      "official",
+      "onboarding"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "verified",
+    "docsUrl": "https://developers.google.com/merchant/ucp",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live"
+  },
+  {
+    "slug": "ant-international",
+    "name": "Ant International",
+    "description": "Global payments and wallet network listed as a UCP ecosystem endorser, bringing Alipay+ and cross-border payment reach to agentic commerce.",
+    "url": "https://www.antgroup.com",
+    "category": "payment-handlers",
+    "tags": [
+      "payments",
+      "wallets",
+      "alipay",
+      "cross-border",
+      "endorser"
+    ],
+    "capabilities": [
+      "checkout",
+      "payment-token-exchange"
+    ],
+    "status": "unverified",
+    "pricing": "enterprise",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced"
+  },
+  {
+    "slug": "flipkart",
+    "name": "Flipkart",
+    "description": "India's leading e-commerce marketplace and a named UCP endorser across electronics, fashion, home, and general merchandise.",
+    "url": "https://www.flipkart.com",
+    "category": "merchants",
+    "tags": [
+      "india",
+      "marketplace",
+      "retail",
+      "endorser"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "unverified",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced"
+  },
+  {
+    "slug": "shopee",
+    "name": "Shopee",
+    "description": "Southeast Asian e-commerce marketplace listed as a UCP ecosystem endorser for AI-assisted shopping across regional catalogs.",
+    "url": "https://shopee.com",
+    "category": "merchants",
+    "tags": [
+      "southeast-asia",
+      "marketplace",
+      "retail",
+      "endorser"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "unverified",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced"
   }
 ]
