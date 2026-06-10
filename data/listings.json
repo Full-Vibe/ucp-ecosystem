@@ -942,5 +942,141 @@
     "pricing": "free",
     "ucpEndpoint": null,
     "ucpStatus": "announced"
+  },
+  {
+    "slug": "shopify-ucp-cli",
+    "name": "Shopify UCP CLI",
+    "description": "Official Shopify command-line shopping skill for AI agents, powered by UCP, with product search, carts, checkout handoff, and order tracking.",
+    "url": "https://github.com/Shopify/ucp-cli",
+    "category": "developer-tools",
+    "tags": [
+      "shopify",
+      "cli",
+      "agent-skills",
+      "checkout",
+      "catalog",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/Shopify/ucp-cli",
+    "docsUrl": "https://shopify.dev/docs/agents",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-06-10",
+    "sourceUrl": "https://github.com/Shopify/ucp-cli"
+  },
+  {
+    "slug": "virto-commerce-ucp-module",
+    "name": "VirtoCommerce UCP Module",
+    "description": "VirtoCommerce module repository for adding Universal Commerce Protocol support to VirtoCommerce storefronts and commerce deployments.",
+    "url": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "category": "developer-tools",
+    "tags": [
+      "virtocommerce",
+      "module",
+      "commerce-platform",
+      "dotnet",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "planned",
+    "addedDate": "2026-06-10",
+    "sourceUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p"
+  },
+  {
+    "slug": "agentic-commerce-skills",
+    "name": "Agentic Commerce Skills",
+    "description": "Bilingual agent skill library mapping UCP checkout, identity linking, fulfillment, discount, order management, and AP2 payment mandate workflows into reusable SKILL.md files.",
+    "url": "https://github.com/fxp/agentic-commerce-skills",
+    "category": "developer-tools",
+    "tags": [
+      "agent-skills",
+      "ucp",
+      "ap2",
+      "a2a",
+      "mcp",
+      "langgraph",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/fxp/agentic-commerce-skills",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-06-10",
+    "sourceUrl": "https://github.com/fxp/agentic-commerce-skills"
+  },
+  {
+    "slug": "ucp-gateway-skill",
+    "name": "Agent Times UCP Gateway Skill",
+    "description": "Hosted UCP identity registry and provider-neutral Shopping MCP skill for open-source agents, covering product search, buyer-confirmed carts, and merchant checkout handoff.",
+    "url": "https://github.com/theagenttimes/ucp-gateway-skill",
+    "category": "agent-integrations",
+    "tags": [
+      "mcp",
+      "agent-skills",
+      "identity-registry",
+      "shopping",
+      "checkout-handoff",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/theagenttimes/ucp-gateway-skill",
+    "docsUrl": "https://ucpg.ai/",
+    "pricing": "freemium",
+    "ucpEndpoint": "https://ucpg.ai/mcp",
+    "ucpStatus": "live",
+    "addedDate": "2026-06-10",
+    "sourceUrl": "https://github.com/theagenttimes/ucp-gateway-skill"
+  },
+  {
+    "slug": "shopit",
+    "name": "SHOPIT",
+    "description": "Universal search app across Shopify stores, powered by Shopify UCP for product discovery across the Shopify merchant ecosystem.",
+    "url": "https://github.com/EastwindRT/shopit",
+    "category": "agent-integrations",
+    "tags": [
+      "shopify",
+      "search",
+      "catalog",
+      "shopping-agent",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/EastwindRT/shopit",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "beta",
+    "addedDate": "2026-06-10",
+    "sourceUrl": "https://github.com/EastwindRT/shopit"
   }
 ]

@@ -74,6 +74,9 @@
 - **[Google Direct Offers](https://ads.google.com)** — UCP-integrated Google ad format that lets merchants surface exclusive promotions with native one-tap checkout in Search and YouTube Shopping campaigns. *(Announced Google Marketing Live 2026, May 20)*
 - **[UCP Cart Capability](https://ucp.dev/draft/specification/cart/)** — New optional UCP spec capability (March 2026) enabling AI agents to add multiple items to a shopping cart in one operation, matching how human shoppers behave.
 - **[UCP Catalog Capability](https://ucp.dev/draft/specification/catalog/)** — New optional UCP spec capability (March 2026) allowing AI agents to retrieve real-time product details from retailer catalogs, including variants, inventory, and pricing.
+- **[Shopify UCP CLI](https://github.com/Shopify/ucp-cli)** — Official Shopify command-line shopping skill for AI agents, with product search, cart, checkout handoff, and order tracking commands. *(Added June 2026)*
+- **[VirtoCommerce UCP Module](https://github.com/VirtoCommerce/vc-module-u-c-p)** — VirtoCommerce module repository for adding Universal Commerce Protocol support to VirtoCommerce storefronts. *(Added June 2026)*
+- **[Agentic Commerce Skills](https://github.com/fxp/agentic-commerce-skills)** — Agent skill library mapping UCP checkout, identity, fulfillment, discount, order, and AP2 workflows into reusable SKILL.md files. *(Added June 2026)*
 - **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
 
 ## 🛒 Merchants
@@ -115,6 +118,8 @@
 - **[Microsoft Copilot Shopping](https://copilot.microsoft.com)** — Microsoft Copilot's shopping assistant with live UCP support across Windows, Edge, Bing, and Microsoft 365 — now includes WooCommerce Brand Agents, mobile checkout, and loyalty integration. *(Updated April 2026)*
 - **[Upsonic UCP Agent](https://github.com/Upsonic/UCP-Agent)** — Open-source AI shopping assistant built with the Upsonic framework, demonstrating the full UCP purchasing flow.
 
+- **[Agent Times UCP Gateway Skill](https://github.com/theagenttimes/ucp-gateway-skill)** — Hosted UCP identity registry and Shopping MCP tools for open-source agents, covering product search, buyer-confirmed carts, and merchant checkout handoff. *(Added June 2026)*
+- **[SHOPIT](https://github.com/EastwindRT/shopit)** — Universal search app across Shopify stores, powered by Shopify UCP for product discovery across the Shopify merchant ecosystem. *(Added June 2026)*
 - **[Microsoft Advertising (Bing Shopping)](https://about.ads.microsoft.com)** — Microsoft Advertising adding UCP feed support so merchants with UCP endpoints surface in Bing Shopping agentic experiences without a separate product feed. *(Added April 2026)*
 
 ## 📱 Social Commerce
