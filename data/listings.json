@@ -1078,5 +1078,90 @@
     "ucpStatus": "beta",
     "addedDate": "2026-06-10",
     "sourceUrl": "https://github.com/EastwindRT/shopit"
+  },
+  {
+    "slug": "nvidia-retail-agentic-commerce",
+    "name": "NVIDIA Retail Agentic Commerce Blueprint",
+    "description": "NVIDIA AI Blueprint reference implementation for ACP and UCP merchant-controlled checkout, delegated payments, and agent orchestration.",
+    "url": "https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce",
+    "category": "developer-tools",
+    "tags": [
+      "nvidia",
+      "ai-blueprint",
+      "reference-implementation",
+      "acp",
+      "ucp",
+      "mcp",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-06-11",
+    "sourceUrl": "https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce"
+  },
+  {
+    "slug": "ucp-ap2-reference-suite",
+    "name": "UCP + AP2 Reference Suite",
+    "description": "Open-source TypeScript demo suite implementing UCP 2026-04-08 and AP2 across shopping agent, merchant, credentials provider, and PSP services.",
+    "url": "https://github.com/victordov/ucp-demo",
+    "category": "developer-tools",
+    "tags": [
+      "reference-suite",
+      "ap2",
+      "typescript",
+      "demo",
+      "conformance",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/victordov/ucp-demo",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-06-11",
+    "sourceUrl": "https://github.com/victordov/ucp-demo"
+  },
+  {
+    "slug": "gemini-bank-integration-demo",
+    "name": "Gemini Bank Integration Demo",
+    "description": "Client-side demo showing Gemini coordinating a mortgage-transfer workflow with A2A handoff, UCP rate discovery, and AP2 execution.",
+    "url": "https://github.com/Lormyn/gemini-bank-integration",
+    "category": "agent-integrations",
+    "tags": [
+      "gemini",
+      "banking",
+      "mortgage",
+      "a2a",
+      "ap2",
+      "demo",
+      "open-source"
+    ],
+    "capabilities": [
+      "product-discovery"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/Lormyn/gemini-bank-integration",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-06-11",
+    "sourceUrl": "https://github.com/Lormyn/gemini-bank-integration"
   }
 ]
