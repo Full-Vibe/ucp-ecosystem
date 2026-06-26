@@ -75,10 +75,12 @@
 - **[UCP Cart Capability](https://ucp.dev/draft/specification/cart/)** — New optional UCP spec capability (March 2026) enabling AI agents to add multiple items to a shopping cart in one operation, matching how human shoppers behave.
 - **[UCP Catalog Capability](https://ucp.dev/draft/specification/catalog/)** — New optional UCP spec capability (March 2026) allowing AI agents to retrieve real-time product details from retailer catalogs, including variants, inventory, and pricing.
 - **[Shopify UCP CLI](https://github.com/Shopify/ucp-cli)** — Official Shopify command-line shopping skill for AI agents, with product search, cart, checkout handoff, and order tracking commands. *(Added June 2026)*
-- **[VirtoCommerce UCP Module](https://github.com/VirtoCommerce/vc-module-u-c-p)** — VirtoCommerce module repository for adding Universal Commerce Protocol support to VirtoCommerce storefronts. *(Added June 2026)*
+- **[VirtoCommerce UCP Module](https://github.com/VirtoCommerce/vc-module-ucp)** — VirtoCommerce module repository for adding Universal Commerce Protocol support to VirtoCommerce storefronts. *(Added June 2026)*
 - **[Agentic Commerce Skills](https://github.com/fxp/agentic-commerce-skills)** — Agent skill library mapping UCP checkout, identity, fulfillment, discount, order, and AP2 workflows into reusable SKILL.md files. *(Added June 2026)*
 - **[NVIDIA Retail Agentic Commerce Blueprint](https://github.com/NVIDIA-AI-Blueprints/Retail-Agentic-Commerce)** — NVIDIA AI Blueprint reference implementation for ACP and UCP merchant-controlled checkout, delegated payments, Apps SDK MCP, and agent orchestration. *(Added June 2026)*
 - **[UCP + AP2 Reference Suite](https://github.com/victordov/ucp-demo)** — TypeScript demo suite implementing UCP 2026-04-08 and AP2 across shopping agent, merchant, credentials provider, and PSP services. *(Added June 2026)*
+- **[Google UCP Developer Docs](https://developers.google.com/pay/api/universal-commerce-protocol/overview)** — Official Google Pay developer documentation for Universal Commerce Protocol integration and implementation concepts. *(Added June 2026)*
+- **[TYPO3 UCP Integration](https://github.com/dirnbauer/typo3-ucp-integration)** — Open-source TYPO3 v14 extension that publishes a UCP merchant manifest, catalog, simulated checkout, and agent checkout UI. *(Added June 2026)*
 - **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
 
 ## 🛒 Merchants
@@ -123,6 +125,8 @@
 - **[Agent Times UCP Gateway Skill](https://github.com/theagenttimes/ucp-gateway-skill)** — Hosted UCP identity registry and Shopping MCP tools for open-source agents, covering product search, buyer-confirmed carts, and merchant checkout handoff. *(Added June 2026)*
 - **[SHOPIT](https://github.com/EastwindRT/shopit)** — Universal search app across Shopify stores, powered by Shopify UCP for product discovery across the Shopify merchant ecosystem. *(Added June 2026)*
 - **[Gemini Bank Integration Demo](https://github.com/Lormyn/gemini-bank-integration)** — Client-side demo showing Gemini coordinating a mortgage-transfer workflow with A2A handoff, UCP rate discovery, and AP2 execution. *(Added June 2026)*
+- **[Shopperhaus](https://shopperhaus.app)** — Cross-border buying-agent platform for LATAM buyers using Shopify Catalog MCP, UCP checkout, and delegated Shop Pay. *(Added June 2026)*
+- **[VAL Lennox Voice Agent](https://github.com/Atharv-web/VAL)** — Open-source Lennox HVAC voice sales agent that references UCP technology for an agentic commerce sales and booking flow. *(Added June 2026)*
 - **[Microsoft Advertising (Bing Shopping)](https://about.ads.microsoft.com)** — Microsoft Advertising adding UCP feed support so merchants with UCP endpoints surface in Bing Shopping agentic experiences without a separate product feed. *(Added April 2026)*
 
 ## 📱 Social Commerce

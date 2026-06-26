@@ -975,7 +975,7 @@
     "slug": "virto-commerce-ucp-module",
     "name": "VirtoCommerce UCP Module",
     "description": "VirtoCommerce module repository for adding Universal Commerce Protocol support to VirtoCommerce storefronts and commerce deployments.",
-    "url": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "url": "https://github.com/VirtoCommerce/vc-module-ucp",
     "category": "developer-tools",
     "tags": [
       "virtocommerce",
@@ -989,12 +989,12 @@
     ],
     "status": "community-submitted",
     "openSource": true,
-    "githubUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p",
+    "githubUrl": "https://github.com/VirtoCommerce/vc-module-ucp",
     "pricing": "free",
     "ucpEndpoint": null,
     "ucpStatus": "planned",
     "addedDate": "2026-06-10",
-    "sourceUrl": "https://github.com/VirtoCommerce/vc-module-u-c-p"
+    "sourceUrl": "https://github.com/VirtoCommerce/vc-module-ucp"
   },
   {
     "slug": "agentic-commerce-skills",
@@ -1163,5 +1163,104 @@
     "ucpStatus": "ecosystem",
     "addedDate": "2026-06-11",
     "sourceUrl": "https://github.com/Lormyn/gemini-bank-integration"
+  },
+  {
+    "slug": "google-ucp-developer-docs",
+    "name": "Google UCP Developer Docs",
+    "description": "Official Google Pay developer documentation for Universal Commerce Protocol integration and implementation concepts.",
+    "url": "https://developers.google.com/pay/api/universal-commerce-protocol/overview",
+    "category": "developer-tools",
+    "tags": [
+      "google",
+      "documentation",
+      "developer-guide",
+      "google-pay",
+      "official"
+    ],
+    "capabilities": [
+      "checkout",
+      "identity-linking",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "verified",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-06-26",
+    "sourceUrl": "https://developers.google.com/pay/api/universal-commerce-protocol/overview"
+  },
+  {
+    "slug": "typo3-ucp-integration",
+    "name": "TYPO3 UCP Integration",
+    "description": "Open-source TYPO3 v14 extension that publishes a UCP merchant manifest, catalog, simulated checkout, and agent checkout UI.",
+    "url": "https://github.com/dirnbauer/typo3-ucp-integration",
+    "category": "developer-tools",
+    "tags": [
+      "typo3",
+      "php",
+      "merchant-manifest",
+      "checkout-demo",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/dirnbauer/typo3-ucp-integration",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "beta",
+    "addedDate": "2026-06-26",
+    "sourceUrl": "https://github.com/dirnbauer/typo3-ucp-integration"
+  },
+  {
+    "slug": "shopperhaus",
+    "name": "Shopperhaus",
+    "description": "Cross-border buying-agent platform for LATAM buyers using Shopify Catalog MCP, UCP checkout, and delegated Shop Pay.",
+    "url": "https://shopperhaus.app",
+    "category": "agent-integrations",
+    "tags": [
+      "shopping-agent",
+      "cross-border",
+      "shopify",
+      "latam",
+      "shop-pay"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "pricing": "paid",
+    "ucpEndpoint": "https://shopperhaus.app/.well-known/ucp",
+    "ucpStatus": "announced",
+    "addedDate": "2026-06-26",
+    "sourceUrl": "https://github.com/Universal-Commerce-Protocol/ucp/discussions/533"
+  },
+  {
+    "slug": "val-lennox-voice-agent",
+    "name": "VAL Lennox Voice Agent",
+    "description": "Open-source Lennox HVAC voice sales agent that references UCP technology for an agentic commerce sales and booking flow.",
+    "url": "https://github.com/Atharv-web/VAL",
+    "category": "agent-integrations",
+    "tags": [
+      "voice-agent",
+      "hvac",
+      "openai-realtime",
+      "sales-agent",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/Atharv-web/VAL",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-06-26",
+    "sourceUrl": "https://github.com/Atharv-web/VAL"
   }
 ]
