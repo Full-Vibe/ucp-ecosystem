@@ -726,6 +726,31 @@
     "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/"
   },
   {
+    "slug": "packrift",
+    "name": "Packrift",
+    "description": "Shopify packaging merchant with live UCP checkout/catalog and a no-auth MCP for boxes, mailers, bags, tape, labels, stretch wrap, and packing supplies with live price, inventory, and cart handoff.",
+    "url": "https://packrift.com",
+    "category": "merchants",
+    "tags": [
+      "shopify",
+      "packaging",
+      "shipping-supplies",
+      "catalog",
+      "mcp",
+      "b2b-commerce"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "community-submitted",
+    "githubUrl": "https://github.com/Packrift/packrift-mcp",
+    "docsUrl": "https://mcp.packrift.com/ai/packrift-ucp-shipping-supplies-starter-kit.html",
+    "ucpEndpoint": "https://packrift.myshopify.com/api/ucp/mcp",
+    "ucpStatus": "live",
+    "addedDate": "2026-06-27",
+    "sourceUrl": "https://mcp.packrift.com/ai/packrift-ucp-builder-sales-loop.html"
+  },
+  {
     "slug": "google-universal-cart",
     "name": "Google Universal Cart",
     "description": "Google's cross-merchant intelligent shopping cart launching in Search and Gemini, backed by Gemini reasoning models and native Google Wallet.",
