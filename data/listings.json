@@ -84,6 +84,33 @@
     "category": "payment-handlers"
   },
   {
+    "slug": "square",
+    "name": "Square",
+    "description": "Commerce and payments platform bringing UCP-aligned local food ordering to Square sellers through ChatGPT, Claude, and future AI channels.",
+    "url": "https://squareup.com",
+    "category": "payment-handlers",
+    "tags": [
+      "payments",
+      "restaurants",
+      "local-commerce",
+      "chatgpt",
+      "claude",
+      "small-business"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management",
+      "payment-token-exchange"
+    ],
+    "status": "verified",
+    "pricing": "paid",
+    "docsUrl": "https://developer.squareup.com/docs",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced",
+    "addedDate": "2026-07-01",
+    "sourceUrl": "https://squareup.com/us/es/press/claude-chatgpt-integrations"
+  },
+  {
     "slug": "ucp-sdk",
     "name": "UCP JavaScript SDK (Official)",
     "description": "Official JavaScript/TypeScript SDK for UCP, maintained by the Universal Commerce Protocol organization.",

@@ -39,6 +39,7 @@
 - **[Mastercard](https://www.mastercard.com)** — Payment network with UCP-compatible tokenized payment capabilities for secure agent-driven transactions.
 - **[American Express](https://www.americanexpress.com)** — Premium payment network supporting UCP token exchange with enhanced purchase protections for agent-driven commerce.
 - **[PayPal](https://www.paypal.com)** — Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.
+- **[Square](https://squareup.com)** — Commerce and payments platform bringing UCP-aligned local food ordering to Square sellers through ChatGPT, Claude, and future AI channels. *(Announced July 2026)*
 - **[Worldpay](https://www.worldpay.com)** — Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.
 - **[Ant International](https://www.antgroup.com)** — Global payments and wallet network listed as a UCP ecosystem endorser, bringing Alipay+ and cross-border payment reach to agentic commerce.
 - **[Nexi Group](https://www.nexigroup.com)** — European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.
