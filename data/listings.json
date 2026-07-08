@@ -1107,6 +1107,54 @@
     "sourceUrl": "https://github.com/EastwindRT/shopit"
   },
   {
+    "slug": "magpie",
+    "name": "Magpie",
+    "description": "Open-source boilerplate for building niche Shopify Global Catalog product finders on UCP with a Python backend and single-file HTML UI.",
+    "url": "https://github.com/kgelster/magpie",
+    "category": "developer-tools",
+    "tags": [
+      "shopify",
+      "global-catalog",
+      "product-finder",
+      "python",
+      "starter-kit",
+      "open-source"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/kgelster/magpie",
+    "docsUrl": "https://github.com/kgelster/magpie/blob/main/RETARGETING.md",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-07-08",
+    "sourceUrl": "https://github.com/kgelster/magpie"
+  },
+  {
+    "slug": "catalog-kit",
+    "name": "catalog-kit",
+    "description": "Agent-ready TypeScript starter kit for building keyless Shopify Global Catalog search apps with a typed client, configurator, playground, and demo storefront.",
+    "url": "https://github.com/DevCreate-Studio/catalog-kit",
+    "category": "developer-tools",
+    "tags": [
+      "shopify",
+      "global-catalog",
+      "typescript",
+      "starter-kit",
+      "configurator",
+      "open-source"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/DevCreate-Studio/catalog-kit",
+    "docsUrl": "https://github.com/DevCreate-Studio/catalog-kit/tree/main/docs",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-07-08",
+    "sourceUrl": "https://github.com/DevCreate-Studio/catalog-kit"
+  },
+  {
     "slug": "nvidia-retail-agentic-commerce",
     "name": "NVIDIA Retail Agentic Commerce Blueprint",
     "description": "NVIDIA AI Blueprint reference implementation for ACP and UCP merchant-controlled checkout, delegated payments, and agent orchestration.",

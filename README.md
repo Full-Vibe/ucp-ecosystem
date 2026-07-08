@@ -125,6 +125,8 @@
 
 - **[Agent Times UCP Gateway Skill](https://github.com/theagenttimes/ucp-gateway-skill)** — Hosted UCP identity registry and Shopping MCP tools for open-source agents, covering product search, buyer-confirmed carts, and merchant checkout handoff. *(Added June 2026)*
 - **[SHOPIT](https://github.com/EastwindRT/shopit)** — Universal search app across Shopify stores, powered by Shopify UCP for product discovery across the Shopify merchant ecosystem. *(Added June 2026)*
+- **[Magpie](https://github.com/kgelster/magpie)** — Open-source boilerplate for building niche Shopify Global Catalog product finders on UCP with a Python backend and single-file HTML UI. *(Added July 2026)*
+- **[catalog-kit](https://github.com/DevCreate-Studio/catalog-kit)** — Agent-ready TypeScript starter kit for keyless Shopify Global Catalog search apps, including a typed client, configurator, playground, and demo storefront. *(Added July 2026)*
 - **[Gemini Bank Integration Demo](https://github.com/Lormyn/gemini-bank-integration)** — Client-side demo showing Gemini coordinating a mortgage-transfer workflow with A2A handoff, UCP rate discovery, and AP2 execution. *(Added June 2026)*
 - **[Shopperhaus](https://shopperhaus.app)** — Cross-border buying-agent platform for LATAM buyers using Shopify Catalog MCP, UCP checkout, and delegated Shop Pay. *(Added June 2026)*
 - **[VAL Lennox Voice Agent](https://github.com/Atharv-web/VAL)** — Open-source Lennox HVAC voice sales agent that references UCP technology for an agentic commerce sales and booking flow. *(Added June 2026)*
