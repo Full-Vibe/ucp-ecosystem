@@ -25,7 +25,7 @@ Prefer a live UCP profile, official documentation, an official repository, or a 
 
 The existing `status` field remains the moderation state of a listing. `evidenceStatus` describes the quality of evidence for its factual claims; the two fields are deliberately separate.
 
-The policy is forward-only so historical entries remain valid while the backlog is migrated. The deferred backfill is recorded in [TODO.md](TODO.md).
+The policy is forward-only so historical entries remain valid while the backlog is migrated. CI compares pull requests with their base revision, so a newly added or substantively changed record cannot bypass the policy by omitting `addedDate`. The deferred backfill is recorded in [TODO.md](TODO.md).
 
 ## Review checklist
 

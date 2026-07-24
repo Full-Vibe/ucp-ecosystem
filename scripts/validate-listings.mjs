@@ -1,4 +1,5 @@
 import { readFile } from 'node:fs/promises';
+import { execFileSync } from 'node:child_process';
 
 const POLICY_START = '2026-07-23';
 const EVIDENCE_STATUSES = new Set([
@@ -11,6 +12,24 @@ const EVIDENCE_STATUSES = new Set([
 const listings = JSON.parse(
   await readFile(new URL('../data/listings.json', import.meta.url), 'utf8'),
 );
+
+const baseArgIndex = process.argv.indexOf('--base');
+const baseRef = baseArgIndex >= 0 ? process.argv[baseArgIndex + 1] : undefined;
+const changedSlugs = new Set();
+
+if (baseRef && !/^0+$/.test(baseRef)) {
+  const baseListings = JSON.parse(
+    execFileSync('git', ['show', `${baseRef}:data/listings.json`], { encoding: 'utf8' }),
+  );
+  const baseBySlug = new Map(baseListings.map((listing) => [listing.slug, listing]));
+
+  for (const listing of listings) {
+    const previous = baseBySlug.get(listing.slug);
+    if (!previous || JSON.stringify(previous) !== JSON.stringify(listing)) {
+      changedSlugs.add(listing.slug);
+    }
+  }
+}
 
 const errors = [];
 const slugs = new Set();
@@ -60,7 +79,9 @@ for (const [index, listing] of listings.entries()) {
     errors.push(`${label}: ucpEndpoint must be null or HTTP(S)`);
   }
 
-  const coveredByPolicy = isDate(listing.addedDate) && listing.addedDate >= POLICY_START;
+  const coveredByPolicy =
+    changedSlugs.has(listing.slug) ||
+    (isDate(listing.addedDate) && listing.addedDate >= POLICY_START);
   if (coveredByPolicy) {
     if (!isHttpUrl(listing.sourceUrl)) errors.push(`${label}: sourceUrl is required by the evidence policy`);
     if (!isDate(listing.lastVerified)) errors.push(`${label}: lastVerified is required by the evidence policy`);

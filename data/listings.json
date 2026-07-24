@@ -11,7 +11,10 @@
     "name": "Google Shopping",
     "description": "Google's shopping platform with UCP integration for AI-agent-driven product discovery and purchase.",
     "url": "https://shopping.google.com",
-    "category": "platforms"
+    "category": "platforms",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
+    "lastVerified": "2026-07-23",
+    "evidenceStatus": "source-verified"
   },
   {
     "slug": "etsy",
@@ -37,9 +40,13 @@
   {
     "slug": "walmart",
     "name": "Walmart",
-    "description": "The world's largest retailer, with UCP checkout for AI-assisted shopping across a broad catalog.",
+    "description": "Major retailer named by Google as a forthcoming UCP-powered checkout partner in AI Mode and Gemini.",
     "url": "https://www.walmart.com",
-    "category": "platforms"
+    "category": "platforms",
+    "ucpStatus": "announced",
+    "sourceUrl": "https://blog.google/products/ads-commerce/digital-advertising-commerce-2026/",
+    "lastVerified": "2026-07-23",
+    "evidenceStatus": "source-verified"
   },
   {
     "slug": "stripe",
@@ -215,7 +222,10 @@
     "name": "Google Gemini AI Shopping",
     "description": "Google's Gemini shopping experience for conversational product discovery and checkout.",
     "url": "https://gemini.google.com",
-    "category": "agent-integrations"
+    "category": "agent-integrations",
+    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/",
+    "lastVerified": "2026-07-23",
+    "evidenceStatus": "source-verified"
   },
   {
     "slug": "checkout-directory-api",
@@ -226,10 +236,13 @@
   },
   {
     "slug": "openai-shopping-plugin",
-    "name": "OpenAI Shopping Plugin",
-    "description": "ChatGPT shopping integration for product discovery and checkout within OpenAI's assistant experience.",
-    "url": "https://openai.com",
-    "category": "agent-integrations"
+    "name": "ChatGPT Shopping and Instant Checkout",
+    "description": "ChatGPT product discovery and Instant Checkout experience, powered by the Agentic Commerce Protocol rather than UCP.",
+    "url": "https://openai.com/index/buy-it-in-chatgpt/",
+    "category": "agent-integrations",
+    "sourceUrl": "https://openai.com/index/buy-it-in-chatgpt/",
+    "lastVerified": "2026-07-23",
+    "evidenceStatus": "source-verified"
   },
   {
     "slug": "anthropic-commerce-agent",
