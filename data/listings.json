@@ -9,7 +9,7 @@
   {
     "slug": "google-shopping",
     "name": "Google Shopping",
-    "description": "Google\\",
+    "description": "Google's shopping platform with UCP integration for AI-agent-driven product discovery and purchase.",
     "url": "https://shopping.google.com",
     "category": "platforms"
   },
@@ -37,7 +37,7 @@
   {
     "slug": "walmart",
     "name": "Walmart",
-    "description": "World\\",
+    "description": "The world's largest retailer, with UCP checkout for AI-assisted shopping across a broad catalog.",
     "url": "https://www.walmart.com",
     "category": "platforms"
   },
@@ -213,7 +213,7 @@
   {
     "slug": "google-gemini-ai-shopping",
     "name": "Google Gemini AI Shopping",
-    "description": "Google\\",
+    "description": "Google's Gemini shopping experience for conversational product discovery and checkout.",
     "url": "https://gemini.google.com",
     "category": "agent-integrations"
   },
@@ -227,7 +227,7 @@
   {
     "slug": "openai-shopping-plugin",
     "name": "OpenAI Shopping Plugin",
-    "description": "ChatGPT plugin enabling UCP-powered product search and checkout directly within OpenAI\\",
+    "description": "ChatGPT shopping integration for product discovery and checkout within OpenAI's assistant experience.",
     "url": "https://openai.com",
     "category": "agent-integrations"
   },
@@ -751,6 +751,35 @@
     "ucpStatus": "live",
     "addedDate": "2026-05-20",
     "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/shopping-updates-google-marketing-live/"
+  },
+  {
+    "slug": "packrift",
+    "name": "Packrift",
+    "description": "Packaging and shipping-supplies merchant with a live UCP business profile and a separately hosted no-auth MCP for catalog discovery and cart handoff.",
+    "url": "https://packrift.com",
+    "category": "merchants",
+    "tags": [
+      "shopify",
+      "packaging",
+      "shipping-supplies",
+      "catalog",
+      "mcp",
+      "b2b-commerce"
+    ],
+    "capabilities": [
+      "checkout",
+      "product-discovery"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/Packrift/packrift-mcp",
+    "docsUrl": "https://mcp.packrift.com/start",
+    "ucpEndpoint": "https://packrift.com/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-06-27",
+    "sourceUrl": "https://packrift.com/.well-known/ucp",
+    "lastVerified": "2026-07-23",
+    "evidenceStatus": "endpoint-verified"
   },
   {
     "slug": "google-universal-cart",

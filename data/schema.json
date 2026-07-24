@@ -8,15 +8,19 @@
     "name": { "type": "string" },
     "description": { "type": "string" },
     "url": { "type": "string", "format": "uri" },
-    "category": { "type": "string", "enum": ["merchants", "platforms", "payment-handlers", "developer-tools", "agent-integrations"] },
+    "category": { "type": "string", "enum": ["merchants", "platforms", "payment-handlers", "developer-tools", "agent-integrations", "related-protocols", "social-commerce", "tools"] },
     "tags": { "type": "array", "items": { "type": "string" } },
-    "capabilities": { "type": "array", "items": { "type": "string", "enum": ["checkout", "identity-linking", "order-management", "payment-token-exchange"] } },
+    "capabilities": { "type": "array", "items": { "type": "string", "enum": ["checkout", "identity-linking", "order-management", "payment-token-exchange", "product-discovery"] } },
     "status": { "type": "string", "enum": ["verified", "unverified", "community-submitted"] },
     "openSource": { "type": "boolean" },
     "githubUrl": { "type": "string", "format": "uri" },
     "docsUrl": { "type": "string", "format": "uri" },
     "pricing": { "type": "string", "enum": ["free", "freemium", "paid", "enterprise"] },
-    "ucpEndpoint": { "type": ["string", "null"] },
-    "ucpStatus": { "type": "string", "enum": ["live", "beta", "announced", "planned"] }
+    "ucpEndpoint": { "type": ["string", "null"], "format": "uri" },
+    "ucpStatus": { "type": "string", "enum": ["live", "beta", "announced", "planned", "ecosystem"] },
+    "addedDate": { "type": "string", "format": "date" },
+    "sourceUrl": { "type": "string", "format": "uri" },
+    "lastVerified": { "type": "string", "format": "date" },
+    "evidenceStatus": { "type": "string", "enum": ["endpoint-verified", "source-verified", "self-reported", "unverified"] }
   }
 }

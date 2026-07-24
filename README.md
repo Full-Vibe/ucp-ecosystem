@@ -49,16 +49,12 @@
 
 ## 🔧 Developer Tools
 
-- **[UCP SDK (Official)](https://github.com/AminTheDev/ucp-sdk)** — Official TypeScript/JavaScript SDK for building UCP-compatible checkout experiences and agent integrations.
 - **[UCP Python SDK (Official)](https://github.com/Universal-Commerce-Protocol/python-sdk)** — The official Python library for UCP with Pydantic models, maintained by the UCP organization.
 - **[UCP Specification](https://github.com/Universal-Commerce-Protocol/ucp)** — Official Universal Commerce Protocol specification and documentation repository maintained by the UCP organization.
-- **[UCP JavaScript SDK (Official)](https://github.com/Universal-Commerce-Protocol/js-sdk)** — The official JavaScript/TypeScript SDK maintained by the UCP organization.
+- **[UCP JavaScript SDK (Official)](https://github.com/Universal-Commerce-Protocol/js-sdk)** — Official generated TypeScript types and Zod schemas for validating UCP payloads.
 - **[UCP Schema](https://github.com/Universal-Commerce-Protocol/ucp-schema)** — Official CLI and library for composing, resolving, linting, and validating UCP JSON Schema payloads.
-- **[UCP Conformance Test Suite](https://github.com/AminTheDev/ucp-conformance-tests)** — Automated test suite to validate UCP protocol compliance for merchants, platforms, and payment handlers.
-- **[UCP Samples Repository](https://github.com/AminTheDev/ucp-samples)** — Collection of example integrations and starter templates for common UCP implementation patterns.
-- **[UCP Schema Validator](https://github.com/AminTheDev/ucp-schema-validator)** — CLI and library for validating UCP message payloads against the official JSON schema specification.
-- **[UCP Checkout.js](https://github.com/AminTheDev/ucp-checkout-js)** — Drop-in JavaScript widget for adding UCP-compatible checkout to any website with minimal configuration.
-- **[UCP CLI Tools](https://github.com/AminTheDev/ucp-cli)** — Command-line tools for scaffolding, testing, and debugging UCP integrations from the terminal.
+- **[UCP Conformance Test Suite](https://github.com/Universal-Commerce-Protocol/conformance)** — Official integration tests for validating a running merchant server against configured UCP scenarios.
+- **[UCP Samples Repository](https://github.com/Universal-Commerce-Protocol/samples)** — Official sample implementations for UCP services and transports.
 - **[UCPStore](https://ucpstore.dev)** — Service that transforms existing e-commerce stores (Shopify, WooCommerce, BigCommerce) into UCP-compatible endpoints.
 - **[Shopify Agentic Commerce with UCP](https://shopify.dev/docs/agents)** — Shopify's official agentic commerce documentation and UCP CLI flow for searching catalogs, building carts, creating checkouts, and tracking orders.
 - **[UCP Checker](https://ucpchecker.com)** — Unofficial industry-standard validator that lints live UCP manifests for schema compliance and tests API latency.
@@ -150,10 +146,11 @@ For programmatic access, the same data lives in:
 
 Found a UCP tool we're missing? Two ways to add it:
 
-1. **Open a PR** — Add an entry to `data/listings.json` following the schema in `data/schema.json`
+1. **Open a PR** — Follow [CONTRIBUTING.md](CONTRIBUTING.md), then add an entry to `data/listings.json`
 2. **Submit through the site** — [ucplist.ai/submit](https://ucplist.ai/submit)
 
-We review every submission personally.
+Every new factual listing requires a source, verification date, and evidence status. We review every submission personally.
+The deferred historical backfill is tracked in [TODO.md](TODO.md).
 
 ## Why Open Source?
 

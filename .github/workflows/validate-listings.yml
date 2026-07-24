@@ -1,0 +1,27 @@
+name: Validate listings
+
+on:
+  pull_request:
+    paths:
+      - "data/**"
+      - "scripts/validate-listings.mjs"
+      - ".github/workflows/validate-listings.yml"
+  push:
+    branches: [main]
+    paths:
+      - "data/**"
+      - "scripts/validate-listings.mjs"
+      - ".github/workflows/validate-listings.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - run: node scripts/validate-listings.mjs
