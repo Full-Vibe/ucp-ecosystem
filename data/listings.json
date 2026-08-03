@@ -1379,5 +1379,116 @@
     "ucpStatus": "ecosystem",
     "addedDate": "2026-06-26",
     "sourceUrl": "https://github.com/Atharv-web/VAL"
+  },
+  {
+    "slug": "ucphub-readiness-checker",
+    "name": "UCPHub Readiness Checker",
+    "description": "Free API-first UCP readiness checker that grades storefronts A-F and validates UCP documents against current schemas.",
+    "url": "https://checker.ucphub.ai",
+    "category": "developer-tools",
+    "tags": [
+      "validator",
+      "api",
+      "schema-validation",
+      "readiness-checker",
+      "ucphub"
+    ],
+    "capabilities": [
+      "product-discovery"
+    ],
+    "status": "community-submitted",
+    "pricing": "free",
+    "docsUrl": "https://docs.ucphub.ai/docs",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-08-03",
+    "lastVerified": "2026-08-03",
+    "sourceUrl": "https://github.com/Universal-Commerce-Protocol/ucp/discussions/656",
+    "evidenceStatus": "self-reported"
+  },
+  {
+    "slug": "fondouk-prestashop-module",
+    "name": "Fondouk PrestaShop Module",
+    "description": "Open-source PrestaShop module that exposes UCP discovery, REST, and MCP catalog endpoints for AI shopping agents.",
+    "url": "https://fondouk.dev",
+    "category": "developer-tools",
+    "tags": [
+      "prestashop",
+      "php",
+      "mcp",
+      "catalog",
+      "open-source"
+    ],
+    "capabilities": [
+      "product-discovery"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/fondouk-dev/fondouk",
+    "docsUrl": "https://fondouk.dev/guides/",
+    "pricing": "freemium",
+    "ucpEndpoint": "https://demo.fondouk.dev/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-08-03",
+    "lastVerified": "2026-08-03",
+    "sourceUrl": "https://forum.prestashop.com/topic/1109300-module-fondouk-%E2%80%94-make-your-store-visible-and-queryable-by-ai-agents-ucp-mcp-%E2%80%94-open-source-pro-version",
+    "evidenceStatus": "endpoint-verified"
+  },
+  {
+    "slug": "ucp-printing-press-cli",
+    "name": "UCP Printing Press CLI",
+    "description": "Agent-native Go CLI for checking UCP merchant manifests and interacting with merchants over REST or MCP.",
+    "url": "https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/ucp",
+    "category": "developer-tools",
+    "tags": [
+      "go",
+      "cli",
+      "agent-skills",
+      "mcp",
+      "validator",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "product-discovery"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/mvanhorn/printing-press-library",
+    "docsUrl": "https://printingpress.dev",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-08-03",
+    "lastVerified": "2026-08-03",
+    "sourceUrl": "https://github.com/mvanhorn/printing-press-library",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "face-reality-skincare",
+    "name": "Face Reality Skincare",
+    "description": "Professional acne-treatment skincare brand with a verified live Shopify UCP endpoint and Storefront MCP transport.",
+    "url": "https://facerealityskincare.com",
+    "category": "merchants",
+    "tags": [
+      "skincare",
+      "shopify",
+      "beauty",
+      "mcp",
+      "verified-live"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management",
+      "product-discovery"
+    ],
+    "status": "verified",
+    "pricing": "paid",
+    "ucpEndpoint": "https://facerealityskincare.com/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-08-03",
+    "lastVerified": "2026-08-03",
+    "sourceUrl": "https://github.com/api-evangelist/facerealityskincare",
+    "evidenceStatus": "endpoint-verified"
   }
 ]

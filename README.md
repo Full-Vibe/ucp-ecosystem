@@ -62,8 +62,10 @@
 - **[UCP Doctor](https://doctor.awesomeucp.com)** — Diagnostic tool for validating UCP implementations with detailed compliance reports.
 - **[UCP Merchants](https://merchants.awesomeucp.com)** — Directory of verified UCP-enabled merchants compatible with AI shopping agents. *(Added 2026-05-06)*
 - **[UCP.tools](https://ucptools.dev)** — Free UCP profile validator and generator checking Schema.org compliance and product feed quality.
+- **[UCPHub Readiness Checker](https://checker.ucphub.ai)** — Free API-first UCP readiness checker that grades storefronts A-F and validates UCP documents against current schemas. *(Added August 2026)*
 - **[Magento 2 UCP Module](https://github.com/magebitcom/magento2-universal-commerce-module)** — Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce.
 - **[UCP Go SDK](https://github.com/dhananjay2021/ucp-go-sdk)** — Community Go SDK for the Universal Commerce Protocol.
+- **[UCP Printing Press CLI](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/ucp)** — Agent-native Go CLI for checking UCP merchant manifests and interacting with merchants over REST or MCP. *(Added August 2026)*
 - **[QWED UCP](https://github.com/QWED-AI/qwed-ucp)** — Verification tool for UCP transactions that catches AI math errors before payment.
 - **[Mastercard Verifiable Intent](https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html)** — Open-source trust framework creating tamper-resistant records of AI agent authorizations, aligned with UCP and AP2 standards. *(Added 2026-03-05)*
 - **[Google Ask Advisor](https://ads.google.com)** — Google's conversational AI assistant embedded into Merchant Center, Ads, and Analytics; helps brands optimize for AI-driven search and UCP-powered shopping surfaces. *(Announced Google Marketing Live 2026, May 20)*
@@ -78,6 +80,7 @@
 - **[UCP + AP2 Reference Suite](https://github.com/victordov/ucp-demo)** — TypeScript demo suite implementing UCP 2026-04-08 and AP2 across shopping agent, merchant, credentials provider, and PSP services. *(Added June 2026)*
 - **[Google UCP Developer Docs](https://developers.google.com/pay/api/universal-commerce-protocol/overview)** — Official Google Pay developer documentation for Universal Commerce Protocol integration and implementation concepts. *(Added June 2026)*
 - **[TYPO3 UCP Integration](https://github.com/dirnbauer/typo3-ucp-integration)** — Open-source TYPO3 v14 extension that publishes a UCP merchant manifest, catalog, simulated checkout, and agent checkout UI. *(Added June 2026)*
+- **[Fondouk PrestaShop Module](https://fondouk.dev)** — Open-source PrestaShop module that exposes UCP discovery, REST, and MCP catalog endpoints for AI shopping agents. *(Added August 2026)*
 - **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
 
 ## 🛒 Merchants
@@ -106,6 +109,7 @@
 - **[Carrefour](https://www.carrefour.com)** — Major international retailer endorsing UCP for AI-powered grocery and general merchandise shopping.
 - **[Gap](https://www.gap.com)** — Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.
 - **[Steve Madden](https://www.stevemadden.com)** — Iconic footwear and accessories brand named by Google at Marketing Live 2026 as a live UCP checkout partner via Shopify. *(Added May 2026)*
+- **[Face Reality Skincare](https://facerealityskincare.com)** — Professional acne-treatment skincare brand with a verified live Shopify UCP endpoint and Storefront MCP transport. *(Added August 2026)*
 
 - **[UCP Demo Playground](https://ucp-demo.web.app)** — Community-built interactive playground for experimenting with UCP, built following Google's developer guide.
 - **[Upsonic UCP Client Python](https://github.com/Upsonic/ucp-client-python)** — Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.
