@@ -351,6 +351,61 @@
     "category": "developer-tools"
   },
   {
+    "slug": "ucp-go-schema-sdk",
+    "name": "ucp-go Schema SDK",
+    "description": "Schema-generated Go SDK for UCP 2026-04-08 with 145 generated models, built-in validation, and zero runtime dependencies.",
+    "url": "https://github.com/chaz8081/ucp-go",
+    "category": "developer-tools",
+    "tags": [
+      "go",
+      "sdk",
+      "schema-generated",
+      "validation",
+      "open-source"
+    ],
+    "capabilities": [
+      "checkout",
+      "order-management"
+    ],
+    "status": "community-submitted",
+    "openSource": true,
+    "githubUrl": "https://github.com/chaz8081/ucp-go",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-08-16",
+    "lastVerified": "2026-08-16",
+    "sourceUrl": "https://github.com/chaz8081/ucp-go",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "mcpg-ucp-payment-plugin",
+    "name": "MCPG UCP Payment Plugin",
+    "description": "MCPG gateway plugin that gates purchasing tools behind merchant-discovered UCP checkout and releases calls after completed payment.",
+    "url": "https://github.com/mcpg-dev/mcpg-plugin-payment-ucp",
+    "category": "developer-tools",
+    "tags": [
+      "mcp",
+      "gateway",
+      "payment-gate",
+      "rust",
+      "plugin"
+    ],
+    "capabilities": [
+      "checkout",
+      "payment-token-exchange"
+    ],
+    "status": "community-submitted",
+    "githubUrl": "https://github.com/mcpg-dev/mcpg-plugin-payment-ucp",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-08-16",
+    "lastVerified": "2026-08-16",
+    "sourceUrl": "https://github.com/mcpg-dev/mcpg-plugin-payment-ucp",
+    "evidenceStatus": "source-verified"
+  },
+  {
     "slug": "qwed-ucp",
     "name": "QWED UCP",
     "description": "Verification tool for UCP transactions that catches AI math errors before payment, adding a trust layer to agentic commerce.",

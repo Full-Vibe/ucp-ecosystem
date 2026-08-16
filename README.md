@@ -65,6 +65,8 @@
 - **[UCPHub Readiness Checker](https://checker.ucphub.ai)** — Free API-first UCP readiness checker that grades storefronts A-F and validates UCP documents against current schemas. *(Added August 2026)*
 - **[Magento 2 UCP Module](https://github.com/magebitcom/magento2-universal-commerce-module)** — Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce.
 - **[UCP Go SDK](https://github.com/dhananjay2021/ucp-go-sdk)** — Community Go SDK for the Universal Commerce Protocol.
+- **[ucp-go Schema SDK](https://github.com/chaz8081/ucp-go)** — Schema-generated Go SDK for UCP 2026-04-08 with built-in validation and zero runtime dependencies. *(Added August 2026)*
+- **[MCPG UCP Payment Plugin](https://github.com/mcpg-dev/mcpg-plugin-payment-ucp)** — MCPG gateway plugin that gates purchasing tools behind merchant-discovered UCP checkout and completed payment. *(Added August 2026)*
 - **[UCP Printing Press CLI](https://github.com/mvanhorn/printing-press-library/tree/main/library/commerce/ucp)** — Agent-native Go CLI for checking UCP merchant manifests and interacting with merchants over REST or MCP. *(Added August 2026)*
 - **[QWED UCP](https://github.com/QWED-AI/qwed-ucp)** — Verification tool for UCP transactions that catches AI math errors before payment.
 - **[Mastercard Verifiable Intent](https://www.mastercard.com/us/en/news-and-trends/stories/2026/verifiable-intent.html)** — Open-source trust framework creating tamper-resistant records of AI agent authorizations, aligned with UCP and AP2 standards. *(Added 2026-03-05)*
