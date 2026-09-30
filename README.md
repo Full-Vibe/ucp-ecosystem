@@ -84,6 +84,8 @@
 - **[TYPO3 UCP Integration](https://github.com/dirnbauer/typo3-ucp-integration)** — Open-source TYPO3 v14 extension that publishes a UCP merchant manifest, catalog, simulated checkout, and agent checkout UI. *(Added June 2026)*
 - **[Fondouk PrestaShop Module](https://fondouk.dev)** — Open-source PrestaShop module that exposes UCP discovery, REST, and MCP catalog endpoints for AI shopping agents. *(Added August 2026)*
 - **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
+- **[Shopify Checkout WebMCP](https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp)**: Browser tools implementing UCP checkout for reading and updating the buyer's active checkout, then submitting it after buyer confirmation. *(Released September 28, 2026)*
+- **[UCP Lodging Booking Capability](https://ucp.dev/draft/specification/lodging/booking/)**: Official draft capability for lodging reservation sessions, guest assignments, payment schedules, and cancellation policies. *(Draft announced September 25, 2026)*
 
 ## 🛒 Merchants
 

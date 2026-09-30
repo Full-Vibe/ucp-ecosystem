@@ -254,7 +254,7 @@
   {
     "slug": "microsoft-copilot-shopping",
     "name": "Microsoft Copilot Shopping",
-    "description": "Microsoft Copilot shopping integration with live UCP support \u2014 now includes WooCommerce Brand Agents, mobile checkout, and loyalty program integration.",
+    "description": "Microsoft Copilot shopping integration with live UCP support — now includes WooCommerce Brand Agents, mobile checkout, and loyalty program integration.",
     "url": "https://copilot.microsoft.com",
     "category": "agent-integrations",
     "status": "verified",
@@ -1545,5 +1545,54 @@
     "lastVerified": "2026-08-03",
     "sourceUrl": "https://github.com/api-evangelist/facerealityskincare",
     "evidenceStatus": "endpoint-verified"
+  },
+  {
+    "slug": "shopify-checkout-webmcp",
+    "name": "Shopify Checkout WebMCP",
+    "description": "Browser-registered tools implementing UCP checkout for reading and updating a buyer's active Shopify checkout, then submitting it after buyer confirmation.",
+    "url": "https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp",
+    "category": "developer-tools",
+    "tags": [
+      "shopify",
+      "webmcp",
+      "browser-agent",
+      "checkout"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "unverified",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-09-30",
+    "lastVerified": "2026-09-30",
+    "sourceUrl": "https://shopify.dev/changelog/posts/webmcp-support-for-checkout",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "ucp-lodging-booking-capability",
+    "name": "UCP Lodging Booking Capability",
+    "description": "Official draft UCP capability for lodging reservation sessions, guest assignments, payment schedules, and cancellation policies.",
+    "url": "https://ucp.dev/draft/specification/lodging/booking/",
+    "category": "developer-tools",
+    "tags": [
+      "lodging",
+      "booking",
+      "draft-specification",
+      "travel"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "unverified",
+    "openSource": true,
+    "githubUrl": "https://github.com/Universal-Commerce-Protocol/ucp/pull/780",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced",
+    "addedDate": "2026-09-30",
+    "lastVerified": "2026-09-30",
+    "sourceUrl": "https://github.com/Universal-Commerce-Protocol/ucp/discussions/864",
+    "evidenceStatus": "source-verified"
   }
 ]
