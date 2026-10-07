@@ -86,6 +86,7 @@
 - **[UCP Identity Linking](https://ucp.dev/latest/specification/identity-linking/)** — UCP spec capability (March 2026) preserving shopper loyalty and member benefits (pricing, free shipping) across UCP-integrated platforms.
 - **[Shopify Checkout WebMCP](https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp)**: Browser tools implementing UCP checkout for reading and updating the buyer's active checkout, then submitting it after buyer confirmation. *(Released September 28, 2026)*
 - **[UCP Lodging Booking Capability](https://ucp.dev/draft/specification/lodging/booking/)**: Official draft capability for lodging reservation sessions, guest assignments, payment schedules, and cancellation policies. *(Draft announced September 25, 2026)*
+- **[AgentBI](https://agentbi.tech)** — Open-source website and CLI scanner that checks UCP manifests alongside AI-agent access and product structured data. Its score is heuristic and does not test completed checkout. *(Added October 2026)*
 
 ## 🛒 Merchants
 
@@ -114,6 +115,7 @@
 - **[Gap](https://www.gap.com)** — Global apparel brand endorsing UCP for AI-assisted shopping across casual and everyday fashion.
 - **[Steve Madden](https://www.stevemadden.com)** — Iconic footwear and accessories brand named by Google at Marketing Live 2026 as a live UCP checkout partner via Shopify. *(Added May 2026)*
 - **[Face Reality Skincare](https://facerealityskincare.com)** — Professional acne-treatment skincare brand with a verified live Shopify UCP endpoint and Storefront MCP transport. *(Added August 2026)*
+- **[Anker](https://www.anker.com)** — Electronics brand with a live Shopify UCP manifest advertising the 2026-04-08 shopping service and MCP transport. *(Verified October 2026)*
 
 - **[UCP Demo Playground](https://ucp-demo.web.app)** — Community-built interactive playground for experimenting with UCP, built following Google's developer guide.
 - **[Upsonic UCP Client Python](https://github.com/Upsonic/ucp-client-python)** — Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.

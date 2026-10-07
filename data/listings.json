@@ -1594,5 +1594,54 @@
     "lastVerified": "2026-09-30",
     "sourceUrl": "https://github.com/Universal-Commerce-Protocol/ucp/discussions/864",
     "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "agentbi",
+    "name": "AgentBI",
+    "description": "Open-source website and CLI scanner that checks UCP manifests, AI-agent access, and product structured data; its score is heuristic and does not test checkout.",
+    "url": "https://agentbi.tech",
+    "category": "developer-tools",
+    "tags": [
+      "ucp",
+      "readiness",
+      "scanner",
+      "open-source"
+    ],
+    "capabilities": [
+      "product-discovery"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/JamesChief/agentbi",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://github.com/JamesChief/agentbi",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "anker",
+    "name": "Anker",
+    "description": "Electronics brand with a live Shopify UCP manifest advertising the 2026-04-08 shopping service and MCP transport.",
+    "url": "https://www.anker.com",
+    "category": "merchants",
+    "tags": [
+      "electronics",
+      "shopify",
+      "mcp",
+      "verified-live"
+    ],
+    "capabilities": [
+      "checkout"
+    ],
+    "status": "verified",
+    "ucpEndpoint": "https://www.anker.com/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.anker.com/.well-known/ucp",
+    "evidenceStatus": "endpoint-verified"
   }
 ]
