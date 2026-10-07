@@ -141,6 +141,7 @@
 ## 📱 Social Commerce
 
 - **[Meta (Facebook & Instagram Shops)](https://www.facebook.com/business/shops)** — Meta joined the UCP Tech Council in April 2026, integrating Facebook Shops and Instagram Shopping into the open agentic commerce standard, enabling AI agents to discover and purchase across Meta's social commerce surfaces. *(Tech Council April 2026)*
+- **[TikTok Buy Direct](https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en)** — Announced brand-direct in-app checkout from TikTok ads. Salesforce says its UCP-based Commerce Cloud integration is planned for phased rollout in Q1 2027. *(Announced October 2026)*
 
 ---
 

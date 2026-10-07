@@ -1643,5 +1643,21 @@
     "lastVerified": "2026-10-07",
     "sourceUrl": "https://www.anker.com/.well-known/ucp",
     "evidenceStatus": "endpoint-verified"
+  },
+  {
+    "slug": "tiktok-buy-direct",
+    "name": "TikTok Buy Direct",
+    "description": "Announced in-app checkout for brand-direct purchases from TikTok ads, with a UCP-based Salesforce Commerce Cloud integration planned for phased rollout in Q1 2027.",
+    "url": "https://newsroom.tiktok.com/tiktok-unveils-ai-powered-updates-for-advertisers-driving-discovery-action-and-measurable-business-outcomes?lang=en",
+    "category": "social-commerce",
+    "tags": ["tiktok", "in-app-checkout", "social-commerce", "salesforce"],
+    "capabilities": ["checkout"],
+    "status": "verified",
+    "ucpEndpoint": null,
+    "ucpStatus": "announced",
+    "addedDate": "2026-10-07",
+    "lastVerified": "2026-10-07",
+    "sourceUrl": "https://www.salesforce.com/blog/commerce-cloud-tiktok-integration/",
+    "evidenceStatus": "source-verified"
   }
 ]
