@@ -1659,5 +1659,40 @@
     "lastVerified": "2026-10-07",
     "sourceUrl": "https://www.salesforce.com/blog/commerce-cloud-tiktok-integration/",
     "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "portage",
+    "name": "Portage",
+    "description": "Open-source shopping-agent CLI and Ruby merchant gems for UCP and MCP, with a Claude Code plugin and merchant adapters; shoppers approve payments.",
+    "url": "https://github.com/tomtom87/Portage",
+    "category": "developer-tools",
+    "tags": ["ucp", "mcp", "ruby", "shopping-agent", "open-source"],
+    "capabilities": ["product-discovery", "checkout"],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/tomtom87/Portage",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-10-14",
+    "lastVerified": "2026-10-14",
+    "sourceUrl": "https://github.com/tomtom87/Portage",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "newegg",
+    "name": "Newegg",
+    "description": "Electronics retailer offering UCP-powered checkout for eligible US products inside Google Search AI Mode and Gemini; Newegg remains the merchant of record.",
+    "url": "https://www.newegg.com",
+    "category": "merchants",
+    "tags": ["electronics", "google", "ai-mode", "gemini"],
+    "capabilities": ["checkout"],
+    "status": "verified",
+    "ucpEndpoint": null,
+    "ucpStatus": "live",
+    "addedDate": "2026-10-14",
+    "lastVerified": "2026-10-14",
+    "sourceUrl": "https://www.businesswire.com/news/home/20261008781256/en/U.S.-Shoppers-Can-Now-Discover-and-Purchase-Eligible-Newegg-Products-Directly-Within-the-Gemini-App-and-Google-Search-Including-AI-Mode",
+    "evidenceStatus": "source-verified"
   }
 ]
