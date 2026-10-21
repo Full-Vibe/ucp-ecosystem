@@ -852,7 +852,7 @@
   {
     "slug": "google-universal-cart",
     "name": "Google Universal Cart",
-    "description": "Google's cross-merchant intelligent shopping cart launching in Search and Gemini, backed by Gemini reasoning models and native Google Wallet.",
+    "description": "Google's cross-merchant shopping cart, available in the US across Search and the Gemini app with UCP-powered checkout.",
     "url": "https://shopping.google.com",
     "category": "platforms",
     "tags": [
@@ -869,7 +869,9 @@
     ],
     "ucpStatus": "live",
     "addedDate": "2026-05-20",
-    "sourceUrl": "https://blog.google/products-and-platforms/products/shopping/google-shopping-cart/"
+    "sourceUrl": "https://business.google.com/us/accelerate/announcements/universal-commerce-protocol-powered-features-on-google/",
+    "lastVerified": "2026-10-21",
+    "evidenceStatus": "source-verified"
   },
   {
     "slug": "google-ask-advisor",
@@ -1694,5 +1696,41 @@
     "lastVerified": "2026-10-14",
     "sourceUrl": "https://www.businesswire.com/news/home/20261008781256/en/U.S.-Shoppers-Can-Now-Discover-and-Purchase-Eligible-Newegg-Products-Directly-Within-the-Gemini-App-and-Google-Search-Including-AI-Mode",
     "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "vercel-shop",
+    "name": "Vercel Shop",
+    "description": "Open-source Next.js storefront template for Shopify that forwards merchant UCP discovery and MCP endpoints for shopping agents.",
+    "url": "https://vercel.shop",
+    "category": "developer-tools",
+    "tags": ["shopify", "nextjs", "storefront", "mcp", "open-source"],
+    "capabilities": ["product-discovery", "checkout"],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/vercel/shop",
+    "docsUrl": "https://vercel.shop/docs/anatomy/aeo-geo",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-10-21",
+    "lastVerified": "2026-10-21",
+    "sourceUrl": "https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers",
+    "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "vercel-store",
+    "name": "Vercel Store",
+    "description": "Vercel's Shopify merchandise store with a live UCP profile advertising shopping over MCP and checkout capabilities.",
+    "url": "https://vercel.store",
+    "category": "merchants",
+    "tags": ["merchandise", "shopify", "mcp", "verified-live"],
+    "capabilities": ["product-discovery", "checkout"],
+    "status": "verified",
+    "ucpEndpoint": "https://vercel.store/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-10-21",
+    "lastVerified": "2026-10-21",
+    "sourceUrl": "https://vercel.store/.well-known/ucp",
+    "evidenceStatus": "endpoint-verified"
   }
 ]

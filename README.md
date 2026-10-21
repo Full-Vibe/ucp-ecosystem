@@ -29,7 +29,7 @@
 - **[Salesforce Agentforce Commerce](https://www.salesforce.com/news/stories/google-universal-commerce-protocol-support-announcement/)** — Salesforce announced native UCP support for Agentforce Commerce merchants, enabling AI-driven shopping journeys across Google AI surfaces. *(announced March 2026)*
 - **[Commerce Inc (BigCommerce)](https://www.commerce.com)** — Parent of BigCommerce and Feedonomics; announced UCP endorsement to enable merchants to sell directly across Google AI surfaces. *(announced March 2026)*
 - **[Amazon](https://www.amazon.com)** — World's largest e-commerce marketplace and UCP Tech Council member (joined April 2026), bringing hundreds of millions of shoppers and sellers into the agentic commerce ecosystem. *(Tech Council April 2026)*
-- **[Google Universal Cart](https://shopping.google.com)** — Google's cross-merchant intelligent shopping cart launching in Search and Gemini this summer; backed by Gemini reasoning models, native Google Wallet, and UCP checkout. Named launch partners include Nike, Sephora, Target, Ulta Beauty, Walmart, Wayfair, and Shopify merchants. *(Announced Google I/O 2026, May 19)*
+- **[Google Universal Cart](https://shopping.google.com)** — Google's cross-merchant shopping cart, available in the US across Search and the Gemini app with UCP-powered checkout. *(US launch October 2026)*
 
 ## 💳 Payment Handlers
 
@@ -88,6 +88,7 @@
 - **[UCP Lodging Booking Capability](https://ucp.dev/draft/specification/lodging/booking/)**: Official draft capability for lodging reservation sessions, guest assignments, payment schedules, and cancellation policies. *(Draft announced September 25, 2026)*
 - **[AgentBI](https://agentbi.tech)** — Open-source website and CLI scanner that checks UCP manifests alongside AI-agent access and product structured data. Its score is heuristic and does not test completed checkout. *(Added October 2026)*
 - **[Portage](https://github.com/tomtom87/Portage)** — Open-source shopping-agent CLI and Ruby merchant gems for UCP and MCP, with a Claude Code plugin and merchant adapters. Purchases require shopper approval. *(Added October 2026)*
+- **[Vercel Shop](https://vercel.shop)** — Open-source Next.js storefront template for Shopify that forwards merchant UCP discovery and MCP endpoints for shopping agents. [Vercel announced general availability](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) on October 16, 2026.
 
 ## 🛒 Merchants
 
@@ -118,6 +119,7 @@
 - **[Face Reality Skincare](https://facerealityskincare.com)** — Professional acne-treatment skincare brand with a verified live Shopify UCP endpoint and Storefront MCP transport. *(Added August 2026)*
 - **[Anker](https://www.anker.com)** — Electronics brand with a live Shopify UCP manifest advertising the 2026-04-08 shopping service and MCP transport. *(Verified October 2026)*
 - **[Newegg](https://www.newegg.com)** — Electronics retailer offering UCP-powered checkout for eligible US products inside Google Search AI Mode and Gemini. Newegg remains the merchant of record. *(Announced October 8, 2026)*
+- **[Vercel Store](https://vercel.store)** — Vercel's Shopify merchandise store with a [live UCP profile](https://vercel.store/.well-known/ucp) advertising shopping over MCP and checkout capabilities. *(Verified October 21, 2026)*
 
 - **[UCP Demo Playground](https://ucp-demo.web.app)** — Community-built interactive playground for experimenting with UCP, built following Google's developer guide.
 - **[Upsonic UCP Client Python](https://github.com/Upsonic/ucp-client-python)** — Python client library for UCP by Upsonic, providing a high-level API for agent-side UCP interactions.
