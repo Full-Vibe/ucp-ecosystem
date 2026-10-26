@@ -1732,5 +1732,33 @@
     "lastVerified": "2026-10-21",
     "sourceUrl": "https://vercel.store/.well-known/ucp",
     "evidenceStatus": "endpoint-verified"
+  },
+  {
+    "slug": "beer-of-satoshi",
+    "name": "Beer of Satoshi",
+    "description": "German Shopify merchant offering Genesis Lager, alcohol-free BOS Zero (paid preorder for Q1 2027), and digital gift cards. Native UCP/MCP supports catalog discovery and cart preparation for meetups and gifts; buyers review and pay in Shopify. Bottles include a sealed crown-cap QR code for Lightning rewards. Published Genesis prizes span 21–1,000,000 sats across the edition; this is not a claim about remaining prizes. Public claims leaderboard: https://leaderboard.beerofsatoshi.com/. The prize-distribution code, bos-algo, is MIT-licensed; the whole commerce platform is not claimed to be open source.",
+    "url": "https://beerofsatoshi.com",
+    "category": "merchants",
+    "tags": [
+      "shopify",
+      "beer",
+      "alcohol-free",
+      "bitcoin",
+      "lightning",
+      "gift-cards",
+      "mcp"
+    ],
+    "capabilities": [
+      "product-discovery"
+    ],
+    "status": "community-submitted",
+    "githubUrl": "https://github.com/Beer-of-Satoshi-GmbH/bos-algo",
+    "docsUrl": "https://beerofsatoshi.com/pages/shop-with-ai",
+    "ucpEndpoint": "https://beerofsatoshi.com/.well-known/ucp",
+    "ucpStatus": "live",
+    "addedDate": "2026-10-26",
+    "sourceUrl": "https://beerofsatoshi.com/.well-known/ucp",
+    "lastVerified": "2026-10-26",
+    "evidenceStatus": "self-reported"
   }
 ]
