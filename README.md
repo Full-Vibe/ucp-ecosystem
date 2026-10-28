@@ -40,6 +40,7 @@
 - **[American Express](https://www.americanexpress.com)** — Premium payment network supporting UCP token exchange with enhanced purchase protections for agent-driven commerce.
 - **[PayPal](https://www.paypal.com)** — Digital payments platform with UCP checkout and payment token exchange for seamless agent-assisted purchases.
 - **[Square](https://squareup.com)** — Commerce and payments platform bringing UCP-aligned local food ordering to Square sellers through ChatGPT, Claude, and future AI channels. *(Announced July 2026)*
+- **[Worldline](https://worldline.com)** — Worldline reported UCP availability for its e-commerce merchants in its [October 27 quarterly update](https://www.globenewswire.com/news-release/2026/10/27/3389497/0/en/worldline-q3-2026-revenue-north-star-2030-execution-delivering-tangible-progress-across-all-businesses.html). No public merchant endpoint was verified. *(Added October 2026)*
 - **[Worldpay](https://www.worldpay.com)** — Global payment technology company supporting UCP transactions with broad acquiring and processing capabilities.
 - **[Ant International](https://www.antgroup.com)** — Global payments and wallet network listed as a UCP ecosystem endorser, bringing Alipay+ and cross-border payment reach to agentic commerce.
 - **[Nexi Group](https://www.nexigroup.com)** — European payment network collaborating with Google Cloud to drive UCP-powered agentic commerce across Europe.
@@ -87,6 +88,8 @@
 - **[Shopify Checkout WebMCP](https://shopify.dev/docs/agents/carts-and-checkout/checkout-webmcp)**: Browser tools implementing UCP checkout for reading and updating the buyer's active checkout, then submitting it after buyer confirmation. *(Released September 28, 2026)*
 - **[UCP Lodging Booking Capability](https://ucp.dev/draft/specification/lodging/booking/)**: Official draft capability for lodging reservation sessions, guest assignments, payment schedules, and cancellation policies. *(Draft announced September 25, 2026)*
 - **[AgentBI](https://agentbi.tech)** — Open-source website and CLI scanner that checks UCP manifests alongside AI-agent access and product structured data. Its score is heuristic and does not test completed checkout. *(Added October 2026)*
+- **[Agentic Commerce UCP Clients](https://github.com/agentic-commerce-lab/commerce-client-sdk)** — Open-source TypeScript and Python REST clients for UCP discovery and commerce operations. Version 0.1.0 is available as a source release; npm and PyPI publication is not yet confirmed. *(Added October 2026)*
+- **[agent-audit](https://github.com/devladpopov/agent-audit)** — Open-source storefront readiness scanner covering UCP discovery and related agent-access signals. Its score does not verify a completed checkout. *(Added October 2026)*
 - **[Portage](https://github.com/tomtom87/Portage)** — Open-source shopping-agent CLI and Ruby merchant gems for UCP and MCP, with a Claude Code plugin and merchant adapters. Purchases require shopper approval. *(Added October 2026)*
 - **[Vercel Shop](https://vercel.shop)** — Open-source Next.js storefront template for Shopify that forwards merchant UCP discovery and MCP endpoints for shopping agents. [Vercel announced general availability](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) on October 16, 2026.
 
