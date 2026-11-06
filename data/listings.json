@@ -1786,5 +1786,23 @@
     "lastVerified": "2026-10-28",
     "sourceUrl": "https://github.com/devladpopov/agent-audit",
     "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "shopbot-index",
+    "name": "ShopBot Index",
+    "description": "Weekly public index of which online stores publish a UCP profile, the profile AI shopping agents read. As of 26 Oct 2026: 2,179 tracked; 773 of 1,552 checkable publish a profile.",
+    "url": "https://shopbotindex.com",
+    "category": "developer-tools",
+    "tags": ["ucp", "adoption", "index", "readiness", "directory"],
+    "capabilities": ["product-discovery"],
+    "status": "community-submitted",
+    "openSource": false,
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-10-29",
+    "lastVerified": "2026-10-29",
+    "sourceUrl": "https://shopbotindex.com",
+    "evidenceStatus": "self-reported"
   }
 ]

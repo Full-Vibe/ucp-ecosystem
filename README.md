@@ -62,6 +62,7 @@
 - **[UCP Lighthouse](https://ucp.rest)** — Schema validator for UCP and community payloads, ensuring AI-era agentic commerce readiness.
 - **[UCP Doctor](https://doctor.awesomeucp.com)** — Diagnostic tool for validating UCP implementations with detailed compliance reports.
 - **[UCP Merchants](https://merchants.awesomeucp.com)** — Directory of verified UCP-enabled merchants compatible with AI shopping agents. *(Added 2026-05-06)*
+- **[ShopBot Index](https://shopbotindex.com)** — Weekly public index of which online stores publish a UCP profile, the profile AI shopping agents read (2,179 tracked; 773 of 1,552 checkable as of 26 Oct 2026). *(Added October 2026)*
 - **[UCP.tools](https://ucptools.dev)** — Free UCP profile validator and generator checking Schema.org compliance and product feed quality.
 - **[UCPHub Readiness Checker](https://checker.ucphub.ai)** — Free API-first UCP readiness checker that grades storefronts A-F and validates UCP documents against current schemas. *(Added August 2026)*
 - **[Magento 2 UCP Module](https://github.com/magebitcom/magento2-universal-commerce-module)** — Universal Commerce Protocol implementation for Magento 2 and Adobe Commerce.
