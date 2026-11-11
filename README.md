@@ -93,6 +93,8 @@
 - **[Portage](https://github.com/tomtom87/Portage)** — Open-source shopping-agent CLI and Ruby merchant gems for UCP and MCP, with a Claude Code plugin and merchant adapters. Purchases require shopper approval. *(Added October 2026)*
 - **[Vercel Shop](https://vercel.shop)** — Open-source Next.js storefront template for Shopify that forwards merchant UCP discovery and MCP endpoints for shopping agents. [Vercel announced general availability](https://vercel.com/blog/vercel-and-shopify-make-agents-first-class-shoppers) on October 16, 2026.
 
+- **[Stripe Link CLI](https://github.com/stripe/link-cli)**: Stripe agent-wallet CLI with UCP catalog search and checkout commands. [UCP checkout updates](https://github.com/stripe/link-cli/pull/518) shipped November 6, 2026.
+
 ## 🛒 Merchants
 
 - **[Nike](https://www.nike.com)** — Global sportswear brand with UCP checkout enabling AI-assisted shopping across footwear, apparel, and equipment.

@@ -1786,5 +1786,33 @@
     "lastVerified": "2026-10-28",
     "sourceUrl": "https://github.com/devladpopov/agent-audit",
     "evidenceStatus": "source-verified"
+  },
+  {
+    "slug": "stripe-link-cli",
+    "name": "Stripe Link CLI",
+    "description": "Stripe command-line tool for agents with UCP catalog search and checkout commands, including creation, updates, completion, and cancellation.",
+    "url": "https://github.com/stripe/link-cli",
+    "category": "developer-tools",
+    "tags": [
+      "stripe",
+      "cli",
+      "agent-wallet",
+      "open-source"
+    ],
+    "capabilities": [
+      "product-discovery",
+      "checkout"
+    ],
+    "status": "verified",
+    "openSource": true,
+    "githubUrl": "https://github.com/stripe/link-cli",
+    "docsUrl": "https://github.com/stripe/link-cli#ucp-checkout",
+    "pricing": "free",
+    "ucpEndpoint": null,
+    "ucpStatus": "ecosystem",
+    "addedDate": "2026-11-11",
+    "lastVerified": "2026-11-11",
+    "sourceUrl": "https://github.com/stripe/link-cli/pull/518",
+    "evidenceStatus": "source-verified"
   }
 ]
